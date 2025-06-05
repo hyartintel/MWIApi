@@ -17,7 +17,7 @@
     "/items/alchemists_top": {},
     "/items/alchemy_essence": {
       "0": {
-        "a": 190000,
+        "a": 94000,
         "b": -1
       }
     },
@@ -218,8 +218,8 @@
     },
     "/items/bag_of_10_cowbells": {
       "0": {
-        "a": 125000,
-        "b": 70000
+        "a": 135000,
+        "b": 78000
       }
     },
     "/items/bamboo_boots": {
@@ -323,7 +323,7 @@
     },
     "/items/birch_log": {
       "0": {
-        "a": 40,
+        "a": 22,
         "b": -1
       }
     },
@@ -428,13 +428,18 @@
     },
     "/items/branch_of_insight": {
       "0": {
-        "a": 200000,
+        "a": 150000,
         "b": -1
       }
     },
     "/items/brewers_bottoms": {},
     "/items/brewers_top": {},
-    "/items/brewing_essence": {},
+    "/items/brewing_essence": {
+      "0": {
+        "a": 50,
+        "b": -1
+      }
+    },
     "/items/brewing_tea": {
       "0": {
         "a": 21,
@@ -558,7 +563,7 @@
     },
     "/items/butter_of_proficiency": {
       "0": {
-        "a": 200000,
+        "a": 150000,
         "b": -1
       }
     },
@@ -586,7 +591,7 @@
     "/items/cedar_fire_staff": {},
     "/items/cedar_log": {
       "0": {
-        "a": 80,
+        "a": 44,
         "b": -1
       }
     },
@@ -634,17 +639,9 @@
         "a": 50000000000,
         "b": -1
       },
-      "13": {
-        "a": 100000000000,
+      "12": {
+        "a": 10000000000,
         "b": -1
-      },
-      "18": {
-        "a": -1,
-        "b": 100000000000
-      },
-      "19": {
-        "a": -1,
-        "b": 100000000000
       },
       "20": {
         "a": -1,
@@ -678,7 +675,7 @@
     },
     "/items/channeling_coffee": {
       "0": {
-        "a": 160,
+        "a": 120,
         "b": -1
       }
     },
@@ -695,7 +692,7 @@
     },
     "/items/cheese": {
       "0": {
-        "a": 16,
+        "a": 12,
         "b": -1
       }
     },
@@ -779,12 +776,7 @@
     },
     "/items/cheese_plate_legs": {},
     "/items/cheese_pot": {},
-    "/items/cheese_shears": {
-      "0": {
-        "a": 10000000000,
-        "b": -1
-      }
-    },
+    "/items/cheese_shears": {},
     "/items/cheese_spatula": {},
     "/items/cheese_spear": {
       "0": {
@@ -807,7 +799,12 @@
       }
     },
     "/items/cheesesmithing_tea": {},
-    "/items/chefs_bottoms": {},
+    "/items/chefs_bottoms": {
+      "0": {
+        "a": -1,
+        "b": 100000000000
+      }
+    },
     "/items/chefs_top": {},
     "/items/chimerical_chest_key": {
       "0": {
@@ -847,7 +844,7 @@
     },
     "/items/cocoon": {
       "0": {
-        "a": 160000000,
+        "a": 80000000,
         "b": -1
       }
     },
@@ -886,7 +883,7 @@
     },
     "/items/cotton": {
       "0": {
-        "a": 580000,
+        "a": 290000,
         "b": -1
       }
     },
@@ -919,7 +916,12 @@
     },
     "/items/crafters_bottoms": {},
     "/items/crafters_top": {},
-    "/items/crafting_essence": {},
+    "/items/crafting_essence": {
+      "0": {
+        "a": 50,
+        "b": -1
+      }
+    },
     "/items/crafting_tea": {},
     "/items/crimson_alembic": {
       "0": {
@@ -1071,7 +1073,12 @@
         "b": -1
       }
     },
-    "/items/dairyhands_bottoms": {},
+    "/items/dairyhands_bottoms": {
+      "0": {
+        "a": -1,
+        "b": 100000000000
+      }
+    },
     "/items/dairyhands_top": {},
     "/items/damaged_anchor": {
       "0": {
@@ -1117,7 +1124,7 @@
     "/items/dodocamel_plume": {},
     "/items/donut": {
       "0": {
-        "a": 100000000000,
+        "a": 50000000000,
         "b": -1
       }
     },
@@ -1167,7 +1174,7 @@
     "/items/efficiency_tea": {},
     "/items/egg": {
       "0": {
-        "a": 16000,
+        "a": 8000,
         "b": -1
       }
     },
@@ -1212,6 +1219,10 @@
         "a": 205000,
         "b": -1
       },
+      "14": {
+        "a": 100000000000,
+        "b": -1
+      },
       "5": {
         "a": 88000000000,
         "b": -1
@@ -1225,6 +1236,10 @@
       "0": {
         "a": 3500000,
         "b": -1
+      },
+      "20": {
+        "a": -1,
+        "b": 100000000000
       }
     },
     "/items/enhancers_top": {
@@ -1232,13 +1247,9 @@
         "a": 3600000,
         "b": -1
       },
-      "2": {
-        "a": 10000000000,
-        "b": -1
-      },
-      "3": {
-        "a": 10000000000,
-        "b": -1
+      "20": {
+        "a": -1,
+        "b": 100000000000
       },
       "4": {
         "a": 100000000000,
@@ -1262,10 +1273,15 @@
         "b": -1
       }
     },
-    "/items/excelsa_coffee_bean": {},
+    "/items/excelsa_coffee_bean": {
+      "0": {
+        "a": 32,
+        "b": -1
+      }
+    },
     "/items/eye_of_the_watcher": {
       "0": {
-        "a": 20000,
+        "a": 15000,
         "b": -1
       }
     },
@@ -1287,7 +1303,12 @@
         "b": -1
       }
     },
-    "/items/fieriosa_coffee_bean": {},
+    "/items/fieriosa_coffee_bean": {
+      "0": {
+        "a": 48,
+        "b": -1
+      }
+    },
     "/items/fighter_necklace": {},
     "/items/fireball": {
       "0": {
@@ -1347,11 +1368,16 @@
         "b": -1
       }
     },
-    "/items/foragers_bottoms": {},
+    "/items/foragers_bottoms": {
+      "0": {
+        "a": -1,
+        "b": 100000000000
+      }
+    },
     "/items/foragers_top": {},
     "/items/foraging_essence": {
       "0": {
-        "a": 4900000000,
+        "a": 2450000000,
         "b": -1
       }
     },
@@ -1683,7 +1709,7 @@
     },
     "/items/holy_milk": {
       "0": {
-        "a": 500,
+        "a": 270,
         "b": -1
       }
     },
@@ -1856,7 +1882,7 @@
     "/items/living_granite": {},
     "/items/log": {
       "0": {
-        "a": 20,
+        "a": 11,
         "b": -1
       }
     },
@@ -1867,7 +1893,12 @@
         "b": -1
       }
     },
-    "/items/lumberjacks_bottoms": {},
+    "/items/lumberjacks_bottoms": {
+      "0": {
+        "a": -1,
+        "b": 100000000000
+      }
+    },
     "/items/lumberjacks_top": {},
     "/items/luna_robe_bottoms": {},
     "/items/luna_robe_top": {},
@@ -1971,13 +2002,13 @@
     },
     "/items/milk": {
       "0": {
-        "a": 4,
+        "a": 3,
         "b": -1
       }
     },
     "/items/milking_essence": {
       "0": {
-        "a": 490000,
+        "a": 245000,
         "b": -1
       }
     },
@@ -2210,7 +2241,12 @@
       }
     },
     "/items/polar_bear_fluff": {},
-    "/items/polar_bear_shoes": {},
+    "/items/polar_bear_shoes": {
+      "0": {
+        "a": -1,
+        "b": 100000000000
+      }
+    },
     "/items/power_coffee": {},
     "/items/precision": {
       "0": {
@@ -2224,7 +2260,12 @@
         "b": -1
       }
     },
-    "/items/processing_tea": {},
+    "/items/processing_tea": {
+      "0": {
+        "a": 60,
+        "b": -1
+      }
+    },
     "/items/provoke": {
       "0": {
         "a": 2000,
@@ -2263,13 +2304,13 @@
     },
     "/items/purpleheart_log": {
       "0": {
-        "a": 120,
+        "a": 66,
         "b": -1
       }
     },
     "/items/purpleheart_lumber": {
       "0": {
-        "a": 3000000,
+        "a": 1500000,
         "b": -1
       }
     },
@@ -2651,7 +2692,7 @@
     "/items/rough_hood": {},
     "/items/rough_leather": {
       "0": {
-        "a": 200000,
+        "a": 100000,
         "b": -1
       }
     },
@@ -2981,7 +3022,7 @@
     },
     "/items/sugar": {
       "0": {
-        "a": 46,
+        "a": 24,
         "b": -1
       }
     },
@@ -3091,7 +3132,7 @@
     },
     "/items/thread_of_expertise": {
       "0": {
-        "a": 200000,
+        "a": 150000,
         "b": -1
       }
     },
@@ -3343,7 +3384,7 @@
     },
     "/items/verdant_milk": {
       "0": {
-        "a": 8,
+        "a": 6,
         "b": -1
       }
     },
@@ -3407,7 +3448,7 @@
     "/items/werewolf_slasher": {},
     "/items/wheat": {
       "0": {
-        "a": 195000,
+        "a": 96000,
         "b": -1
       }
     },
@@ -3427,7 +3468,7 @@
     "/items/wizard_necklace": {},
     "/items/woodcutting_essence": {
       "0": {
-        "a": 74000000,
+        "a": 37000000,
         "b": -1
       }
     },
@@ -3465,5 +3506,5 @@
       }
     }
   },
-  "timestamp": 1749114954
+  "timestamp": 1749129778
 }
