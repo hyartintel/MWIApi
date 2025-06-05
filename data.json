@@ -218,8 +218,8 @@
     },
     "/items/bag_of_10_cowbells": {
       "0": {
-        "a": 135000,
-        "b": 78000
+        "a": 210000,
+        "b": -1
       }
     },
     "/items/bamboo_boots": {
@@ -323,7 +323,7 @@
     },
     "/items/birch_log": {
       "0": {
-        "a": 22,
+        "a": 40,
         "b": -1
       }
     },
@@ -623,24 +623,12 @@
       }
     },
     "/items/celestial_enhancer": {
-      "0": {
-        "a": 330000000,
-        "b": -1
-      },
       "1": {
         "a": 100000000000,
         "b": -1
       },
       "10": {
-        "a": 47000000000,
-        "b": -1
-      },
-      "11": {
         "a": 50000000000,
-        "b": -1
-      },
-      "12": {
-        "a": 10000000000,
         "b": -1
       },
       "20": {
@@ -649,10 +637,6 @@
       },
       "5": {
         "a": 40000000000,
-        "b": -1
-      },
-      "6": {
-        "a": 10000000000,
         "b": -1
       },
       "9": {
@@ -687,6 +671,10 @@
       },
       "5": {
         "a": 40000000000,
+        "b": -1
+      },
+      "7": {
+        "a": 5000000,
         "b": -1
       }
     },
@@ -799,12 +787,7 @@
       }
     },
     "/items/cheesesmithing_tea": {},
-    "/items/chefs_bottoms": {
-      "0": {
-        "a": -1,
-        "b": 100000000000
-      }
-    },
+    "/items/chefs_bottoms": {},
     "/items/chefs_top": {},
     "/items/chimerical_chest_key": {
       "0": {
@@ -1033,7 +1016,12 @@
       }
     },
     "/items/crushed_amber": {},
-    "/items/crushed_amethyst": {},
+    "/items/crushed_amethyst": {
+      "0": {
+        "a": 800,
+        "b": -1
+      }
+    },
     "/items/crushed_garnet": {
       "0": {
         "a": 25000000000,
@@ -1041,7 +1029,12 @@
       }
     },
     "/items/crushed_jade": {},
-    "/items/crushed_moonstone": {},
+    "/items/crushed_moonstone": {
+      "0": {
+        "a": 1000,
+        "b": -1
+      }
+    },
     "/items/crushed_pearl": {
       "0": {
         "a": 100000000000,
@@ -1054,7 +1047,12 @@
         "b": -1
       }
     },
-    "/items/crushed_sunstone": {},
+    "/items/crushed_sunstone": {
+      "0": {
+        "a": 2000,
+        "b": -1
+      }
+    },
     "/items/cupcake": {
       "0": {
         "a": 10,
@@ -1073,12 +1071,7 @@
         "b": -1
       }
     },
-    "/items/dairyhands_bottoms": {
-      "0": {
-        "a": -1,
-        "b": 100000000000
-      }
-    },
+    "/items/dairyhands_bottoms": {},
     "/items/dairyhands_top": {},
     "/items/damaged_anchor": {
       "0": {
@@ -1219,10 +1212,6 @@
         "a": 205000,
         "b": -1
       },
-      "14": {
-        "a": 100000000000,
-        "b": -1
-      },
       "5": {
         "a": 88000000000,
         "b": -1
@@ -1236,20 +1225,12 @@
       "0": {
         "a": 3500000,
         "b": -1
-      },
-      "20": {
-        "a": -1,
-        "b": 100000000000
       }
     },
     "/items/enhancers_top": {
       "0": {
         "a": 3600000,
         "b": -1
-      },
-      "20": {
-        "a": -1,
-        "b": 100000000000
       },
       "4": {
         "a": 100000000000,
@@ -1368,12 +1349,7 @@
         "b": -1
       }
     },
-    "/items/foragers_bottoms": {
-      "0": {
-        "a": -1,
-        "b": 100000000000
-      }
-    },
+    "/items/foragers_bottoms": {},
     "/items/foragers_top": {},
     "/items/foraging_essence": {
       "0": {
@@ -1628,10 +1604,6 @@
     "/items/guzzling_pouch": {
       "0": {
         "a": 6200000,
-        "b": -1
-      },
-      "5": {
-        "a": 10000000000,
         "b": -1
       }
     },
@@ -1893,12 +1865,7 @@
         "b": -1
       }
     },
-    "/items/lumberjacks_bottoms": {
-      "0": {
-        "a": -1,
-        "b": 100000000000
-      }
-    },
+    "/items/lumberjacks_bottoms": {},
     "/items/lumberjacks_top": {},
     "/items/luna_robe_bottoms": {},
     "/items/luna_robe_top": {},
@@ -2002,7 +1969,7 @@
     },
     "/items/milk": {
       "0": {
-        "a": 3,
+        "a": 4,
         "b": -1
       }
     },
@@ -2152,11 +2119,15 @@
     },
     "/items/philosophers_necklace": {
       "0": {
-        "a": 12500000,
+        "a": 12000000,
         "b": -1
       },
       "10": {
         "a": 98000000000,
+        "b": -1
+      },
+      "15": {
+        "a": 100000000000,
         "b": -1
       },
       "5": {
@@ -2241,12 +2212,7 @@
       }
     },
     "/items/polar_bear_fluff": {},
-    "/items/polar_bear_shoes": {
-      "0": {
-        "a": -1,
-        "b": 100000000000
-      }
-    },
+    "/items/polar_bear_shoes": {},
     "/items/power_coffee": {},
     "/items/precision": {
       "0": {
@@ -2429,7 +2395,7 @@
         "b": -1
       },
       "7": {
-        "a": 100000000000,
+        "a": 25000000000,
         "b": -1
       }
     },
@@ -2756,7 +2722,7 @@
     },
     "/items/shard_of_protection": {
       "0": {
-        "a": 31000000,
+        "a": 1600,
         "b": -1
       }
     },
@@ -2910,12 +2876,7 @@
         "b": -1
       }
     },
-    "/items/spaceberry": {
-      "0": {
-        "a": 21,
-        "b": -1
-      }
-    },
+    "/items/spaceberry": {},
     "/items/spaceberry_cake": {
       "0": {
         "a": 78,
@@ -3022,7 +2983,7 @@
     },
     "/items/sugar": {
       "0": {
-        "a": 24,
+        "a": 46,
         "b": -1
       }
     },
@@ -3506,5 +3467,5 @@
       }
     }
   },
-  "timestamp": 1749129778
+  "timestamp": 1749150506
 }
