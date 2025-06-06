@@ -1,3475 +1,6 @@
 {
   "records": [
     {
-      "timestamp": 1749114954,
-      "marketData": {
-        "/items/abyssal_essence": {
-          "0": {
-            "a": 110,
-            "b": -1
-          }
-        },
-        "/items/acrobatic_hood": {
-          "0": {
-            "a": 3600000,
-            "b": -1
-          }
-        },
-        "/items/acrobats_ribbon": {},
-        "/items/alchemists_bottoms": {},
-        "/items/alchemists_top": {},
-        "/items/alchemy_essence": {
-          "0": {
-            "a": 190000,
-            "b": -1
-          }
-        },
-        "/items/alchemy_tea": {
-          "0": {
-            "a": 9600000000,
-            "b": -1
-          }
-        },
-        "/items/amber": {
-          "0": {
-            "a": 155000,
-            "b": -1
-          }
-        },
-        "/items/amethyst": {
-          "0": {
-            "a": 440000000,
-            "b": -1
-          }
-        },
-        "/items/anchorbound_plate_body": {
-          "0": {
-            "a": 100000000000,
-            "b": -1
-          }
-        },
-        "/items/anchorbound_plate_legs": {
-          "0": {
-            "a": 100000000000,
-            "b": -1
-          }
-        },
-        "/items/apple": {
-          "0": {
-            "a": 4,
-            "b": -1
-          }
-        },
-        "/items/apple_gummy": {
-          "0": {
-            "a": 2200,
-            "b": -1
-          }
-        },
-        "/items/apple_yogurt": {},
-        "/items/aqua_arrow": {
-          "0": {
-            "a": 1950,
-            "b": -1
-          }
-        },
-        "/items/aqua_aura": {
-          "0": {
-            "a": 20000,
-            "b": -1
-          }
-        },
-        "/items/aqua_essence": {
-          "0": {
-            "a": 10000000000,
-            "b": -1
-          }
-        },
-        "/items/arabica_coffee_bean": {},
-        "/items/arcane_bow": {
-          "0": {
-            "a": 160000,
-            "b": -1
-          }
-        },
-        "/items/arcane_crossbow": {
-          "0": {
-            "a": 80000,
-            "b": -1
-          }
-        },
-        "/items/arcane_fire_staff": {
-          "0": {
-            "a": 300000,
-            "b": -1
-          }
-        },
-        "/items/arcane_log": {
-          "0": {
-            "a": 400,
-            "b": -1
-          }
-        },
-        "/items/arcane_lumber": {
-          "0": {
-            "a": 9600000000,
-            "b": -1
-          }
-        },
-        "/items/arcane_nature_staff": {
-          "0": {
-            "a": 80000,
-            "b": -1
-          }
-        },
-        "/items/arcane_reflection": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/arcane_shield": {},
-        "/items/arcane_water_staff": {
-          "0": {
-            "a": 80000,
-            "b": -1
-          }
-        },
-        "/items/artisan_tea": {},
-        "/items/attack_coffee": {},
-        "/items/azure_alembic": {},
-        "/items/azure_boots": {
-          "0": {
-            "a": 9600,
-            "b": -1
-          }
-        },
-        "/items/azure_brush": {
-          "0": {
-            "a": 2100,
-            "b": -1
-          }
-        },
-        "/items/azure_buckler": {},
-        "/items/azure_bulwark": {},
-        "/items/azure_cheese": {
-          "0": {
-            "a": 64,
-            "b": -1
-          }
-        },
-        "/items/azure_chisel": {},
-        "/items/azure_enhancer": {},
-        "/items/azure_gauntlets": {
-          "0": {
-            "a": 4800,
-            "b": -1
-          }
-        },
-        "/items/azure_hammer": {},
-        "/items/azure_hatchet": {},
-        "/items/azure_helmet": {
-          "0": {
-            "a": 1450,
-            "b": -1
-          }
-        },
-        "/items/azure_mace": {
-          "0": {
-            "a": 2600,
-            "b": -1
-          }
-        },
-        "/items/azure_milk": {
-          "0": {
-            "a": 16,
-            "b": -1
-          }
-        },
-        "/items/azure_needle": {},
-        "/items/azure_plate_body": {
-          "0": {
-            "a": 4700,
-            "b": -1
-          }
-        },
-        "/items/azure_plate_legs": {
-          "0": {
-            "a": 8200,
-            "b": -1
-          }
-        },
-        "/items/azure_pot": {
-          "0": {
-            "a": 2100,
-            "b": -1
-          }
-        },
-        "/items/azure_shears": {},
-        "/items/azure_spatula": {},
-        "/items/azure_spear": {
-          "0": {
-            "a": 2650,
-            "b": -1
-          }
-        },
-        "/items/azure_sword": {
-          "0": {
-            "a": 5200,
-            "b": -1
-          }
-        },
-        "/items/bag_of_10_cowbells": {
-          "0": {
-            "a": 125000,
-            "b": 70000
-          }
-        },
-        "/items/bamboo_boots": {
-          "0": {
-            "a": 40000,
-            "b": -1
-          }
-        },
-        "/items/bamboo_branch": {},
-        "/items/bamboo_fabric": {},
-        "/items/bamboo_gloves": {
-          "0": {
-            "a": 2550,
-            "b": -1
-          }
-        },
-        "/items/bamboo_hat": {
-          "0": {
-            "a": 3200,
-            "b": -1
-          }
-        },
-        "/items/bamboo_robe_bottoms": {
-          "0": {
-            "a": 17500,
-            "b": -1
-          }
-        },
-        "/items/bamboo_robe_top": {
-          "0": {
-            "a": 5000,
-            "b": -1
-          }
-        },
-        "/items/bear_essence": {
-          "0": {
-            "a": 2450000000,
-            "b": -1
-          }
-        },
-        "/items/beast_boots": {
-          "0": {
-            "a": 8000,
-            "b": -1
-          }
-        },
-        "/items/beast_bracers": {
-          "0": {
-            "a": 64000,
-            "b": -1
-          }
-        },
-        "/items/beast_chaps": {
-          "0": {
-            "a": 56000,
-            "b": -1
-          }
-        },
-        "/items/beast_hide": {},
-        "/items/beast_hood": {
-          "0": {
-            "a": 10000,
-            "b": -1
-          }
-        },
-        "/items/beast_leather": {
-          "0": {
-            "a": 160,
-            "b": -1
-          }
-        },
-        "/items/beast_tunic": {
-          "0": {
-            "a": 64000,
-            "b": -1
-          }
-        },
-        "/items/berserk": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/birch_bow": {
-          "0": {
-            "a": 2500,
-            "b": -1
-          }
-        },
-        "/items/birch_crossbow": {
-          "0": {
-            "a": 720,
-            "b": -1
-          }
-        },
-        "/items/birch_fire_staff": {
-          "0": {
-            "a": 720,
-            "b": -1
-          }
-        },
-        "/items/birch_log": {
-          "0": {
-            "a": 40,
-            "b": -1
-          }
-        },
-        "/items/birch_lumber": {
-          "0": {
-            "a": 250000000,
-            "b": -1
-          }
-        },
-        "/items/birch_nature_staff": {
-          "0": {
-            "a": 720,
-            "b": -1
-          }
-        },
-        "/items/birch_shield": {
-          "0": {
-            "a": 100000000000,
-            "b": -1
-          }
-        },
-        "/items/birch_water_staff": {
-          "0": {
-            "a": 720,
-            "b": -1
-          }
-        },
-        "/items/bishops_codex": {
-          "0": {
-            "a": 4900000,
-            "b": -1
-          }
-        },
-        "/items/bishops_scroll": {},
-        "/items/black_bear_fluff": {},
-        "/items/black_bear_shoes": {},
-        "/items/black_tea_leaf": {
-          "0": {
-            "a": 120000000,
-            "b": -1
-          }
-        },
-        "/items/blackberry": {
-          "0": {
-            "a": 500000000,
-            "b": -1
-          }
-        },
-        "/items/blackberry_cake": {
-          "0": {
-            "a": 40,
-            "b": -1
-          }
-        },
-        "/items/blackberry_donut": {
-          "0": {
-            "a": 40,
-            "b": -1
-          }
-        },
-        "/items/blazing_trident": {
-          "0": {
-            "a": 10000000,
-            "b": -1
-          }
-        },
-        "/items/blessed_tea": {
-          "0": {
-            "a": 125,
-            "b": -1
-          }
-        },
-        "/items/blooming_trident": {
-          "0": {
-            "a": 5000000,
-            "b": -1
-          }
-        },
-        "/items/blue_key_fragment": {
-          "0": {
-            "a": 50000,
-            "b": -1
-          }
-        },
-        "/items/blueberry": {
-          "0": {
-            "a": 125000000,
-            "b": -1
-          }
-        },
-        "/items/blueberry_cake": {
-          "0": {
-            "a": 20,
-            "b": -1
-          }
-        },
-        "/items/blueberry_donut": {
-          "0": {
-            "a": 20,
-            "b": -1
-          }
-        },
-        "/items/branch_of_insight": {
-          "0": {
-            "a": 200000,
-            "b": -1
-          }
-        },
-        "/items/brewers_bottoms": {},
-        "/items/brewers_top": {},
-        "/items/brewing_essence": {},
-        "/items/brewing_tea": {
-          "0": {
-            "a": 21,
-            "b": -1
-          }
-        },
-        "/items/brown_key_fragment": {
-          "0": {
-            "a": 100000,
-            "b": -1
-          }
-        },
-        "/items/burble_alembic": {
-          "0": {
-            "a": 100000000000,
-            "b": -1
-          }
-        },
-        "/items/burble_boots": {
-          "0": {
-            "a": 23000,
-            "b": -1
-          }
-        },
-        "/items/burble_brush": {
-          "0": {
-            "a": 5400,
-            "b": -1
-          }
-        },
-        "/items/burble_buckler": {},
-        "/items/burble_bulwark": {},
-        "/items/burble_cheese": {
-          "0": {
-            "a": 96,
-            "b": -1
-          }
-        },
-        "/items/burble_chisel": {},
-        "/items/burble_enhancer": {
-          "10": {
-            "a": 160000000,
-            "b": -1
-          }
-        },
-        "/items/burble_gauntlets": {
-          "0": {
-            "a": 11500,
-            "b": -1
-          }
-        },
-        "/items/burble_hammer": {},
-        "/items/burble_hatchet": {},
-        "/items/burble_helmet": {
-          "0": {
-            "a": 3600,
-            "b": -1
-          }
-        },
-        "/items/burble_mace": {
-          "0": {
-            "a": 6600,
-            "b": -1
-          }
-        },
-        "/items/burble_milk": {
-          "0": {
-            "a": 175,
-            "b": -1
-          }
-        },
-        "/items/burble_needle": {},
-        "/items/burble_plate_body": {
-          "0": {
-            "a": 11500,
-            "b": -1
-          }
-        },
-        "/items/burble_plate_legs": {
-          "0": {
-            "a": 20000,
-            "b": -1
-          }
-        },
-        "/items/burble_pot": {
-          "0": {
-            "a": 5400,
-            "b": -1
-          }
-        },
-        "/items/burble_shears": {},
-        "/items/burble_spatula": {
-          "0": {
-            "a": 5200,
-            "b": -1
-          }
-        },
-        "/items/burble_spear": {
-          "0": {
-            "a": 13000,
-            "b": -1
-          }
-        },
-        "/items/burble_sword": {
-          "0": {
-            "a": 13000,
-            "b": -1
-          }
-        },
-        "/items/burble_tea_leaf": {
-          "0": {
-            "a": 25,
-            "b": -1
-          }
-        },
-        "/items/burning_key_fragment": {
-          "0": {
-            "a": 1600000,
-            "b": -1
-          }
-        },
-        "/items/butter_of_proficiency": {
-          "0": {
-            "a": 200000,
-            "b": -1
-          }
-        },
-        "/items/catalyst_of_coinification": {
-          "0": {
-            "a": 10000000000,
-            "b": -1
-          }
-        },
-        "/items/catalyst_of_decomposition": {},
-        "/items/catalyst_of_transmutation": {},
-        "/items/catalytic_tea": {},
-        "/items/cedar_bow": {
-          "0": {
-            "a": 3500,
-            "b": -1
-          }
-        },
-        "/items/cedar_crossbow": {
-          "0": {
-            "a": 2600,
-            "b": -1
-          }
-        },
-        "/items/cedar_fire_staff": {},
-        "/items/cedar_log": {
-          "0": {
-            "a": 80,
-            "b": -1
-          }
-        },
-        "/items/cedar_lumber": {
-          "0": {
-            "a": 20000000,
-            "b": -1
-          }
-        },
-        "/items/cedar_nature_staff": {
-          "0": {
-            "a": 2600,
-            "b": -1
-          }
-        },
-        "/items/cedar_shield": {},
-        "/items/cedar_water_staff": {
-          "0": {
-            "a": 2600,
-            "b": -1
-          }
-        },
-        "/items/celestial_alembic": {},
-        "/items/celestial_brush": {},
-        "/items/celestial_chisel": {
-          "0": {
-            "a": 5200000,
-            "b": -1
-          }
-        },
-        "/items/celestial_enhancer": {
-          "0": {
-            "a": 330000000,
-            "b": -1
-          },
-          "1": {
-            "a": 100000000000,
-            "b": -1
-          },
-          "10": {
-            "a": 47000000000,
-            "b": -1
-          },
-          "11": {
-            "a": 50000000000,
-            "b": -1
-          },
-          "13": {
-            "a": 100000000000,
-            "b": -1
-          },
-          "18": {
-            "a": -1,
-            "b": 100000000000
-          },
-          "19": {
-            "a": -1,
-            "b": 100000000000
-          },
-          "20": {
-            "a": -1,
-            "b": 100000000000
-          },
-          "5": {
-            "a": 40000000000,
-            "b": -1
-          },
-          "6": {
-            "a": 10000000000,
-            "b": -1
-          },
-          "9": {
-            "a": 98000000000,
-            "b": -1
-          }
-        },
-        "/items/celestial_hammer": {},
-        "/items/celestial_hatchet": {},
-        "/items/celestial_needle": {},
-        "/items/celestial_pot": {},
-        "/items/celestial_shears": {},
-        "/items/celestial_spatula": {},
-        "/items/centaur_boots": {},
-        "/items/centaur_hoof": {
-          "0": {
-            "a": 10000,
-            "b": -1
-          }
-        },
-        "/items/channeling_coffee": {
-          "0": {
-            "a": 160,
-            "b": -1
-          }
-        },
-        "/items/chaotic_chain": {},
-        "/items/chaotic_flail": {
-          "0": {
-            "a": 100000000000,
-            "b": -1
-          },
-          "5": {
-            "a": 40000000000,
-            "b": -1
-          }
-        },
-        "/items/cheese": {
-          "0": {
-            "a": 16,
-            "b": -1
-          }
-        },
-        "/items/cheese_alembic": {
-          "0": {
-            "a": 110000000,
-            "b": -1
-          }
-        },
-        "/items/cheese_boots": {},
-        "/items/cheese_brush": {
-          "0": {
-            "a": 48000000000,
-            "b": -1
-          }
-        },
-        "/items/cheese_buckler": {
-          "0": {
-            "a": 24000000000,
-            "b": -1
-          },
-          "1": {
-            "a": 10000000000,
-            "b": -1
-          }
-        },
-        "/items/cheese_bulwark": {
-          "0": {
-            "a": 640000000,
-            "b": -1
-          }
-        },
-        "/items/cheese_chisel": {},
-        "/items/cheese_enhancer": {
-          "0": {
-            "a": 120,
-            "b": -1
-          }
-        },
-        "/items/cheese_gauntlets": {
-          "0": {
-            "a": 66,
-            "b": -1
-          }
-        },
-        "/items/cheese_hammer": {
-          "0": {
-            "a": 120,
-            "b": -1
-          }
-        },
-        "/items/cheese_hatchet": {
-          "0": {
-            "a": 120,
-            "b": -1
-          }
-        },
-        "/items/cheese_helmet": {
-          "0": {
-            "a": 80,
-            "b": -1
-          }
-        },
-        "/items/cheese_mace": {
-          "0": {
-            "a": 290,
-            "b": -1
-          }
-        },
-        "/items/cheese_needle": {
-          "0": {
-            "a": 120,
-            "b": -1
-          }
-        },
-        "/items/cheese_plate_body": {
-          "0": {
-            "a": 135,
-            "b": -1
-          }
-        },
-        "/items/cheese_plate_legs": {},
-        "/items/cheese_pot": {},
-        "/items/cheese_shears": {
-          "0": {
-            "a": 10000000000,
-            "b": -1
-          }
-        },
-        "/items/cheese_spatula": {},
-        "/items/cheese_spear": {
-          "0": {
-            "a": 150,
-            "b": -1
-          }
-        },
-        "/items/cheese_sword": {
-          "0": {
-            "a": 96000000000,
-            "b": -1
-          }
-        },
-        "/items/cheesemakers_bottoms": {},
-        "/items/cheesemakers_top": {},
-        "/items/cheesesmithing_essence": {
-          "0": {
-            "a": 10000000000,
-            "b": -1
-          }
-        },
-        "/items/cheesesmithing_tea": {},
-        "/items/chefs_bottoms": {},
-        "/items/chefs_top": {},
-        "/items/chimerical_chest_key": {
-          "0": {
-            "a": 400000,
-            "b": -1
-          }
-        },
-        "/items/chimerical_entry_key": {
-          "0": {
-            "a": 40000,
-            "b": -1
-          }
-        },
-        "/items/chimerical_essence": {
-          "0": {
-            "a": 50000000000,
-            "b": -1
-          }
-        },
-        "/items/chrono_gloves": {
-          "0": {
-            "a": 50000000000,
-            "b": -1
-          }
-        },
-        "/items/chrono_sphere": {
-          "0": {
-            "a": 100000000000,
-            "b": -1
-          }
-        },
-        "/items/cleave": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/cocoon": {
-          "0": {
-            "a": 160000000,
-            "b": -1
-          }
-        },
-        "/items/collectors_boots": {},
-        "/items/colossus_core": {
-          "0": {
-            "a": 40000,
-            "b": -1
-          }
-        },
-        "/items/colossus_plate_body": {
-          "0": {
-            "a": 410000,
-            "b": -1
-          }
-        },
-        "/items/colossus_plate_legs": {},
-        "/items/cooking_essence": {
-          "0": {
-            "a": 500000000,
-            "b": -1
-          }
-        },
-        "/items/cooking_tea": {
-          "0": {
-            "a": 21,
-            "b": -1
-          }
-        },
-        "/items/corsair_crest": {},
-        "/items/corsair_helmet": {
-          "0": {
-            "a": 3600000,
-            "b": -1
-          }
-        },
-        "/items/cotton": {
-          "0": {
-            "a": 580000,
-            "b": -1
-          }
-        },
-        "/items/cotton_boots": {},
-        "/items/cotton_fabric": {
-          "0": {
-            "a": 300000000,
-            "b": -1
-          }
-        },
-        "/items/cotton_gloves": {
-          "1": {
-            "a": 10000000000,
-            "b": -1
-          }
-        },
-        "/items/cotton_hat": {},
-        "/items/cotton_robe_bottoms": {},
-        "/items/cotton_robe_top": {
-          "0": {
-            "a": 1250,
-            "b": -1
-          }
-        },
-        "/items/crab_pincer": {
-          "0": {
-            "a": 9800000000,
-            "b": -1
-          }
-        },
-        "/items/crafters_bottoms": {},
-        "/items/crafters_top": {},
-        "/items/crafting_essence": {},
-        "/items/crafting_tea": {},
-        "/items/crimson_alembic": {
-          "0": {
-            "a": 11500,
-            "b": -1
-          }
-        },
-        "/items/crimson_boots": {
-          "0": {
-            "a": 48000,
-            "b": -1
-          }
-        },
-        "/items/crimson_brush": {
-          "0": {
-            "a": 11500,
-            "b": -1
-          }
-        },
-        "/items/crimson_buckler": {},
-        "/items/crimson_bulwark": {},
-        "/items/crimson_cheese": {
-          "0": {
-            "a": 130,
-            "b": -1
-          }
-        },
-        "/items/crimson_chisel": {},
-        "/items/crimson_enhancer": {},
-        "/items/crimson_gauntlets": {
-          "0": {
-            "a": 24000,
-            "b": -1
-          }
-        },
-        "/items/crimson_hammer": {},
-        "/items/crimson_hatchet": {},
-        "/items/crimson_helmet": {
-          "0": {
-            "a": 7800,
-            "b": -1
-          }
-        },
-        "/items/crimson_mace": {
-          "0": {
-            "a": 14000,
-            "b": -1
-          }
-        },
-        "/items/crimson_milk": {
-          "0": {
-            "a": 32,
-            "b": -1
-          }
-        },
-        "/items/crimson_needle": {},
-        "/items/crimson_plate_body": {
-          "0": {
-            "a": 25000,
-            "b": -1
-          },
-          "2": {
-            "a": 66000,
-            "b": -1
-          }
-        },
-        "/items/crimson_plate_legs": {
-          "0": {
-            "a": 44000,
-            "b": -1
-          }
-        },
-        "/items/crimson_pot": {},
-        "/items/crimson_shears": {},
-        "/items/crimson_spatula": {
-          "0": {
-            "a": 11500,
-            "b": -1
-          }
-        },
-        "/items/crimson_spear": {
-          "0": {
-            "a": 28000,
-            "b": -1
-          }
-        },
-        "/items/crimson_sword": {
-          "0": {
-            "a": 28000,
-            "b": -1
-          }
-        },
-        "/items/crippling_slash": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/critical_aura": {
-          "0": {
-            "a": 20000,
-            "b": -1
-          }
-        },
-        "/items/critical_coffee": {
-          "0": {
-            "a": 125,
-            "b": -1
-          }
-        },
-        "/items/crushed_amber": {},
-        "/items/crushed_amethyst": {},
-        "/items/crushed_garnet": {
-          "0": {
-            "a": 25000000000,
-            "b": -1
-          }
-        },
-        "/items/crushed_jade": {},
-        "/items/crushed_moonstone": {},
-        "/items/crushed_pearl": {
-          "0": {
-            "a": 100000000000,
-            "b": -1
-          }
-        },
-        "/items/crushed_philosophers_stone": {
-          "0": {
-            "a": 98000,
-            "b": -1
-          }
-        },
-        "/items/crushed_sunstone": {},
-        "/items/cupcake": {
-          "0": {
-            "a": 10,
-            "b": -1
-          }
-        },
-        "/items/cursed_ball": {
-          "0": {
-            "a": 205000,
-            "b": -1
-          }
-        },
-        "/items/cursed_bow": {
-          "0": {
-            "a": 5200000,
-            "b": -1
-          }
-        },
-        "/items/dairyhands_bottoms": {},
-        "/items/dairyhands_top": {},
-        "/items/damaged_anchor": {
-          "0": {
-            "a": 9800000000,
-            "b": -1
-          }
-        },
-        "/items/dark_key_fragment": {
-          "0": {
-            "a": 160000,
-            "b": -1
-          }
-        },
-        "/items/defense_coffee": {},
-        "/items/demonic_core": {
-          "0": {
-            "a": 540000,
-            "b": -1
-          }
-        },
-        "/items/demonic_plate_body": {
-          "0": {
-            "a": 410000,
-            "b": -1
-          }
-        },
-        "/items/demonic_plate_legs": {
-          "0": {
-            "a": 640000,
-            "b": -1
-          },
-          "10": {
-            "a": 100000000000,
-            "b": -1
-          }
-        },
-        "/items/dodocamel_gauntlets": {
-          "0": {
-            "a": 100000000000,
-            "b": -1
-          }
-        },
-        "/items/dodocamel_plume": {},
-        "/items/donut": {
-          "0": {
-            "a": 100000000000,
-            "b": -1
-          }
-        },
-        "/items/dragon_fruit": {
-          "0": {
-            "a": 19,
-            "b": -1
-          }
-        },
-        "/items/dragon_fruit_gummy": {
-          "0": {
-            "a": 50,
-            "b": -1
-          }
-        },
-        "/items/dragon_fruit_yogurt": {
-          "0": {
-            "a": 380,
-            "b": -1
-          }
-        },
-        "/items/earrings_of_armor": {},
-        "/items/earrings_of_critical_strike": {},
-        "/items/earrings_of_essence_find": {},
-        "/items/earrings_of_gathering": {
-          "3": {
-            "a": 10000,
-            "b": -1
-          }
-        },
-        "/items/earrings_of_rare_find": {},
-        "/items/earrings_of_regeneration": {
-          "10": {
-            "a": 15000000000,
-            "b": -1
-          },
-          "11": {
-            "a": 15000000000,
-            "b": -1
-          },
-          "5": {
-            "a": 240000000,
-            "b": -1
-          }
-        },
-        "/items/earrings_of_resistance": {},
-        "/items/efficiency_tea": {},
-        "/items/egg": {
-          "0": {
-            "a": 16000,
-            "b": -1
-          }
-        },
-        "/items/elemental_affinity": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/elusiveness": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/emp_tea_leaf": {
-          "0": {
-            "a": 82,
-            "b": -1
-          }
-        },
-        "/items/enchanted_chest_key": {
-          "0": {
-            "a": 1000000,
-            "b": -1
-          }
-        },
-        "/items/enchanted_entry_key": {
-          "0": {
-            "a": 100000,
-            "b": -1
-          }
-        },
-        "/items/enchanted_essence": {
-          "0": {
-            "a": 1250000000,
-            "b": -1
-          }
-        },
-        "/items/enchanted_gloves": {
-          "0": {
-            "a": 205000,
-            "b": -1
-          },
-          "5": {
-            "a": 88000000000,
-            "b": -1
-          },
-          "6": {
-            "a": 100000000000,
-            "b": -1
-          }
-        },
-        "/items/enhancers_bottoms": {
-          "0": {
-            "a": 3500000,
-            "b": -1
-          }
-        },
-        "/items/enhancers_top": {
-          "0": {
-            "a": 3600000,
-            "b": -1
-          },
-          "2": {
-            "a": 10000000000,
-            "b": -1
-          },
-          "3": {
-            "a": 10000000000,
-            "b": -1
-          },
-          "4": {
-            "a": 100000000000,
-            "b": -1
-          },
-          "5": {
-            "a": 10000000000,
-            "b": -1
-          }
-        },
-        "/items/enhancing_essence": {
-          "0": {
-            "a": 52,
-            "b": -1
-          }
-        },
-        "/items/enhancing_tea": {},
-        "/items/entangle": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/excelsa_coffee_bean": {},
-        "/items/eye_of_the_watcher": {
-          "0": {
-            "a": 20000,
-            "b": -1
-          }
-        },
-        "/items/eye_watch": {
-          "0": {
-            "a": 400000,
-            "b": -1
-          }
-        },
-        "/items/eyessence": {
-          "0": {
-            "a": 10000000000,
-            "b": -1
-          }
-        },
-        "/items/fierce_aura": {
-          "0": {
-            "a": 20000,
-            "b": -1
-          }
-        },
-        "/items/fieriosa_coffee_bean": {},
-        "/items/fighter_necklace": {},
-        "/items/fireball": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/firestorm": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/flame_arrow": {
-          "0": {
-            "a": 1950,
-            "b": -1
-          }
-        },
-        "/items/flame_aura": {
-          "0": {
-            "a": 20000,
-            "b": -1
-          }
-        },
-        "/items/flame_blast": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/flaming_cloth": {
-          "0": {
-            "a": 64000,
-            "b": -1
-          }
-        },
-        "/items/flaming_robe_bottoms": {},
-        "/items/flaming_robe_top": {
-          "0": {
-            "a": 120000,
-            "b": -1
-          },
-          "10": {
-            "a": 480000000,
-            "b": -1
-          }
-        },
-        "/items/flax": {},
-        "/items/fluffy_red_hat": {
-          "0": {
-            "a": 100000000000,
-            "b": -1
-          },
-          "10": {
-            "a": 100000000000,
-            "b": -1
-          }
-        },
-        "/items/foragers_bottoms": {},
-        "/items/foragers_top": {},
-        "/items/foraging_essence": {
-          "0": {
-            "a": 4900000000,
-            "b": -1
-          }
-        },
-        "/items/foraging_tea": {},
-        "/items/fracturing_impact": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/frenzy": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/frost_sphere": {},
-        "/items/frost_staff": {
-          "0": {
-            "a": 400000,
-            "b": -1
-          }
-        },
-        "/items/frost_surge": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/furious_spear": {
-          "0": {
-            "a": 5000000,
-            "b": -1
-          }
-        },
-        "/items/garnet": {
-          "0": {
-            "a": 920000000,
-            "b": -1
-          }
-        },
-        "/items/gathering_tea": {},
-        "/items/gator_vest": {
-          "0": {
-            "a": 160000000,
-            "b": -1
-          },
-          "10": {
-            "a": 10000000000,
-            "b": -1
-          }
-        },
-        "/items/giant_pouch": {
-          "0": {
-            "a": 1050000,
-            "b": -1
-          }
-        },
-        "/items/ginkgo_bow": {
-          "0": {
-            "a": 18500,
-            "b": -1
-          }
-        },
-        "/items/ginkgo_crossbow": {
-          "0": {
-            "a": 14000,
-            "b": -1
-          }
-        },
-        "/items/ginkgo_fire_staff": {},
-        "/items/ginkgo_log": {
-          "0": {
-            "a": 160,
-            "b": -1
-          }
-        },
-        "/items/ginkgo_lumber": {
-          "0": {
-            "a": 1000000,
-            "b": -1
-          }
-        },
-        "/items/ginkgo_nature_staff": {
-          "0": {
-            "a": 14000,
-            "b": -1
-          }
-        },
-        "/items/ginkgo_shield": {},
-        "/items/ginkgo_water_staff": {
-          "0": {
-            "a": 14000,
-            "b": -1
-          }
-        },
-        "/items/gluttonous_energy": {
-          "0": {
-            "a": 400000,
-            "b": -1
-          }
-        },
-        "/items/gluttonous_pouch": {
-          "0": {
-            "a": 5200000,
-            "b": -1
-          }
-        },
-        "/items/gobo_boomstick": {},
-        "/items/gobo_boots": {
-          "0": {
-            "a": 2550,
-            "b": -1
-          }
-        },
-        "/items/gobo_bracers": {
-          "0": {
-            "a": 2550,
-            "b": -1
-          }
-        },
-        "/items/gobo_chaps": {
-          "0": {
-            "a": 4500,
-            "b": -1
-          }
-        },
-        "/items/gobo_defender": {
-          "0": {
-            "a": 200000,
-            "b": -1
-          }
-        },
-        "/items/gobo_essence": {},
-        "/items/gobo_hide": {
-          "0": {
-            "a": 160,
-            "b": -1
-          }
-        },
-        "/items/gobo_hood": {
-          "0": {
-            "a": 3200,
-            "b": -1
-          }
-        },
-        "/items/gobo_leather": {},
-        "/items/gobo_rag": {
-          "0": {
-            "a": 10500,
-            "b": -1
-          }
-        },
-        "/items/gobo_shooter": {
-          "0": {
-            "a": 20500,
-            "b": -1
-          },
-          "5": {
-            "a": 320000000,
-            "b": -1
-          }
-        },
-        "/items/gobo_slasher": {
-          "0": {
-            "a": 20500,
-            "b": -1
-          }
-        },
-        "/items/gobo_smasher": {
-          "0": {
-            "a": 20500,
-            "b": -1
-          }
-        },
-        "/items/gobo_stabber": {},
-        "/items/gobo_tunic": {
-          "0": {
-            "a": 9800,
-            "b": -1
-          }
-        },
-        "/items/goggles": {
-          "0": {
-            "a": 20000,
-            "b": -1
-          }
-        },
-        "/items/golem_essence": {
-          "0": {
-            "a": 115,
-            "b": -1
-          }
-        },
-        "/items/gourmet_tea": {},
-        "/items/granite_bludgeon": {},
-        "/items/green_key_fragment": {
-          "0": {
-            "a": 50000,
-            "b": -1
-          }
-        },
-        "/items/green_tea_leaf": {
-          "0": {
-            "a": 9800000000,
-            "b": -1
-          }
-        },
-        "/items/griffin_bulwark": {
-          "0": {
-            "a": 80000000000,
-            "b": -1
-          }
-        },
-        "/items/griffin_chaps": {
-          "0": {
-            "a": 330000,
-            "b": -1
-          }
-        },
-        "/items/griffin_leather": {},
-        "/items/griffin_talon": {
-          "0": {
-            "a": 10000000000,
-            "b": -1
-          }
-        },
-        "/items/griffin_tunic": {
-          "0": {
-            "a": 410000,
-            "b": -1
-          }
-        },
-        "/items/grizzly_bear_fluff": {},
-        "/items/grizzly_bear_shoes": {},
-        "/items/gummy": {
-          "0": {
-            "a": 10,
-            "b": -1
-          }
-        },
-        "/items/guzzling_energy": {
-          "0": {
-            "a": 400000,
-            "b": -1
-          }
-        },
-        "/items/guzzling_pouch": {
-          "0": {
-            "a": 6200000,
-            "b": -1
-          },
-          "5": {
-            "a": 10000000000,
-            "b": -1
-          }
-        },
-        "/items/heal": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/holy_alembic": {},
-        "/items/holy_boots": {
-          "0": {
-            "a": 1100000,
-            "b": -1
-          }
-        },
-        "/items/holy_brush": {},
-        "/items/holy_buckler": {
-          "0": {
-            "a": 100000000000,
-            "b": -1
-          }
-        },
-        "/items/holy_bulwark": {
-          "0": {
-            "a": 220000,
-            "b": -1
-          }
-        },
-        "/items/holy_cheese": {
-          "0": {
-            "a": 310,
-            "b": -1
-          }
-        },
-        "/items/holy_chisel": {
-          "0": {
-            "a": 64000,
-            "b": -1
-          }
-        },
-        "/items/holy_enhancer": {
-          "0": {
-            "a": 3700000000,
-            "b": -1
-          },
-          "10": {
-            "a": 49000000000,
-            "b": -1
-          },
-          "5": {
-            "a": 7600000000,
-            "b": -1
-          }
-        },
-        "/items/holy_gauntlets": {
-          "0": {
-            "a": 140000,
-            "b": -1
-          }
-        },
-        "/items/holy_hammer": {},
-        "/items/holy_hatchet": {},
-        "/items/holy_helmet": {
-          "0": {
-            "a": 44000,
-            "b": -1
-          }
-        },
-        "/items/holy_mace": {
-          "0": {
-            "a": 80000,
-            "b": -1
-          }
-        },
-        "/items/holy_milk": {
-          "0": {
-            "a": 500,
-            "b": -1
-          }
-        },
-        "/items/holy_needle": {},
-        "/items/holy_plate_body": {
-          "0": {
-            "a": 140000,
-            "b": -1
-          }
-        },
-        "/items/holy_plate_legs": {
-          "0": {
-            "a": 240000,
-            "b": -1
-          }
-        },
-        "/items/holy_pot": {
-          "0": {
-            "a": 15000000,
-            "b": -1
-          }
-        },
-        "/items/holy_shears": {},
-        "/items/holy_spatula": {},
-        "/items/holy_spear": {
-          "0": {
-            "a": 82000,
-            "b": -1
-          }
-        },
-        "/items/holy_sword": {
-          "0": {
-            "a": 160000,
-            "b": -1
-          }
-        },
-        "/items/ice_spear": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/icy_cloth": {},
-        "/items/icy_robe_bottoms": {},
-        "/items/icy_robe_top": {},
-        "/items/impale": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/infernal_battlestaff": {
-          "0": {
-            "a": 400000,
-            "b": -1
-          },
-          "15": {
-            "a": 100000000000,
-            "b": -1
-          }
-        },
-        "/items/infernal_ember": {
-          "0": {
-            "a": 10500,
-            "b": -1
-          }
-        },
-        "/items/insanity": {
-          "0": {
-            "a": 20000,
-            "b": -1
-          }
-        },
-        "/items/intelligence_coffee": {},
-        "/items/invincible": {
-          "0": {
-            "a": 20000,
-            "b": -1
-          }
-        },
-        "/items/jackalope_antler": {},
-        "/items/jackalope_staff": {},
-        "/items/jade": {
-          "0": {
-            "a": 1000000,
-            "b": -1
-          }
-        },
-        "/items/jungle_essence": {
-          "0": {
-            "a": 10000000000,
-            "b": -1
-          }
-        },
-        "/items/knights_aegis": {
-          "0": {
-            "a": 100000000000,
-            "b": -1
-          }
-        },
-        "/items/knights_ingot": {},
-        "/items/kraken_chaps": {
-          "0": {
-            "a": 4000000,
-            "b": -1
-          }
-        },
-        "/items/kraken_fang": {
-          "0": {
-            "a": 760000000,
-            "b": -1
-          }
-        },
-        "/items/kraken_leather": {},
-        "/items/kraken_tunic": {
-          "0": {
-            "a": 4600000,
-            "b": -1
-          }
-        },
-        "/items/large_pouch": {
-          "0": {
-            "a": 340000,
-            "b": -1
-          }
-        },
-        "/items/liberica_coffee_bean": {
-          "0": {
-            "a": 6000000,
-            "b": -1
-          }
-        },
-        "/items/life_drain": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/linen_boots": {
-          "0": {
-            "a": 9200,
-            "b": -1
-          }
-        },
-        "/items/linen_fabric": {},
-        "/items/linen_gloves": {
-          "0": {
-            "a": 4600,
-            "b": -1
-          }
-        },
-        "/items/linen_hat": {
-          "0": {
-            "a": 740,
-            "b": -1
-          }
-        },
-        "/items/linen_robe_bottoms": {
-          "0": {
-            "a": 1100,
-            "b": -1
-          }
-        },
-        "/items/linen_robe_top": {
-          "0": {
-            "a": 1250,
-            "b": -1
-          }
-        },
-        "/items/living_granite": {},
-        "/items/log": {
-          "0": {
-            "a": 20,
-            "b": -1
-          }
-        },
-        "/items/lucky_coffee": {},
-        "/items/lumber": {
-          "0": {
-            "a": 2500000000,
-            "b": -1
-          }
-        },
-        "/items/lumberjacks_bottoms": {},
-        "/items/lumberjacks_top": {},
-        "/items/luna_robe_bottoms": {},
-        "/items/luna_robe_top": {},
-        "/items/luna_wing": {},
-        "/items/maelstrom_plate_body": {
-          "0": {
-            "a": 100000000000,
-            "b": -1
-          }
-        },
-        "/items/maelstrom_plate_legs": {
-          "0": {
-            "a": 100000000000,
-            "b": -1
-          }
-        },
-        "/items/maelstrom_plating": {
-          "0": {
-            "a": 40000,
-            "b": -1
-          }
-        },
-        "/items/magic_coffee": {
-          "0": {
-            "a": 41,
-            "b": -1
-          }
-        },
-        "/items/magicians_cloth": {},
-        "/items/magicians_hat": {
-          "0": {
-            "a": 7000000,
-            "b": -1
-          }
-        },
-        "/items/magnet": {},
-        "/items/magnetic_gloves": {},
-        "/items/magnifying_glass": {},
-        "/items/maim": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/mana_spring": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/manticore_shield": {
-          "0": {
-            "a": 800000,
-            "b": -1
-          }
-        },
-        "/items/manticore_sting": {
-          "0": {
-            "a": 320000,
-            "b": -1
-          }
-        },
-        "/items/marine_chaps": {},
-        "/items/marine_scale": {
-          "0": {
-            "a": 9800000000,
-            "b": -1
-          }
-        },
-        "/items/marine_tunic": {
-          "0": {
-            "a": 62000,
-            "b": -1
-          }
-        },
-        "/items/marksman_bracers": {
-          "0": {
-            "a": 100000000000,
-            "b": -1
-          }
-        },
-        "/items/marksman_brooch": {},
-        "/items/marsberry": {},
-        "/items/marsberry_cake": {
-          "0": {
-            "a": 100,
-            "b": -1
-          }
-        },
-        "/items/marsberry_donut": {
-          "0": {
-            "a": 100,
-            "b": -1
-          }
-        },
-        "/items/medium_pouch": {
-          "0": {
-            "a": 285000,
-            "b": -1
-          }
-        },
-        "/items/milk": {
-          "0": {
-            "a": 4,
-            "b": -1
-          }
-        },
-        "/items/milking_essence": {
-          "0": {
-            "a": 490000,
-            "b": -1
-          }
-        },
-        "/items/milking_tea": {
-          "0": {
-            "a": 5000000,
-            "b": -1
-          }
-        },
-        "/items/minor_heal": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/mirror_of_protection": {
-          "0": {
-            "a": 200000,
-            "b": -1
-          }
-        },
-        "/items/mooberry": {
-          "0": {
-            "a": 10000000000,
-            "b": -1
-          }
-        },
-        "/items/mooberry_cake": {
-          "0": {
-            "a": 80,
-            "b": -1
-          }
-        },
-        "/items/mooberry_donut": {
-          "0": {
-            "a": 80,
-            "b": -1
-          }
-        },
-        "/items/moolong_tea_leaf": {
-          "0": {
-            "a": 5000000000,
-            "b": -1
-          }
-        },
-        "/items/moonstone": {
-          "0": {
-            "a": 580000000,
-            "b": -1
-          }
-        },
-        "/items/natures_veil": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/necklace_of_efficiency": {},
-        "/items/necklace_of_speed": {},
-        "/items/necklace_of_wisdom": {
-          "0": {
-            "a": 62000,
-            "b": -1
-          }
-        },
-        "/items/orange": {
-          "0": {
-            "a": 47000000,
-            "b": -1
-          }
-        },
-        "/items/orange_gummy": {
-          "0": {
-            "a": 21,
-            "b": -1
-          }
-        },
-        "/items/orange_key_fragment": {
-          "0": {
-            "a": 100000,
-            "b": -1
-          }
-        },
-        "/items/orange_yogurt": {
-          "0": {
-            "a": 21,
-            "b": -1
-          }
-        },
-        "/items/panda_fluff": {},
-        "/items/panda_gloves": {},
-        "/items/peach": {},
-        "/items/peach_gummy": {
-          "0": {
-            "a": 40,
-            "b": -1
-          }
-        },
-        "/items/peach_yogurt": {
-          "0": {
-            "a": 10000000000,
-            "b": -1
-          }
-        },
-        "/items/pearl": {
-          "0": {
-            "a": 1200000,
-            "b": -1
-          }
-        },
-        "/items/penetrating_shot": {},
-        "/items/penetrating_strike": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/pestilent_shot": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/philosophers_earrings": {
-          "0": {
-            "a": 23500000,
-            "b": -1
-          },
-          "5": {
-            "a": 98000000000,
-            "b": -1
-          },
-          "7": {
-            "a": 56000000000,
-            "b": -1
-          },
-          "9": {
-            "a": 100000000000,
-            "b": -1
-          }
-        },
-        "/items/philosophers_necklace": {
-          "0": {
-            "a": 12500000,
-            "b": -1
-          },
-          "10": {
-            "a": 98000000000,
-            "b": -1
-          },
-          "5": {
-            "a": 10000000000,
-            "b": -1
-          },
-          "6": {
-            "a": 30000000000,
-            "b": -1
-          },
-          "8": {
-            "a": 3000000000,
-            "b": -1
-          },
-          "9": {
-            "a": 100000000000,
-            "b": -1
-          }
-        },
-        "/items/philosophers_ring": {
-          "0": {
-            "a": 12500000,
-            "b": -1
-          },
-          "5": {
-            "a": 50000000000,
-            "b": -1
-          }
-        },
-        "/items/philosophers_stone": {
-          "0": {
-            "a": 14500000,
-            "b": -1
-          }
-        },
-        "/items/pincer_gloves": {
-          "10": {
-            "a": 12000000000,
-            "b": -1
-          }
-        },
-        "/items/pirate_chest_key": {
-          "0": {
-            "a": 9400000,
-            "b": -1
-          }
-        },
-        "/items/pirate_entry_key": {
-          "0": {
-            "a": 480000000,
-            "b": -1
-          }
-        },
-        "/items/pirate_essence": {
-          "0": {
-            "a": 300000000,
-            "b": -1
-          }
-        },
-        "/items/plum": {
-          "0": {
-            "a": 2500000,
-            "b": -1
-          }
-        },
-        "/items/plum_gummy": {
-          "0": {
-            "a": 31,
-            "b": -1
-          }
-        },
-        "/items/plum_yogurt": {
-          "0": {
-            "a": 10000000000,
-            "b": -1
-          }
-        },
-        "/items/poke": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/polar_bear_fluff": {},
-        "/items/polar_bear_shoes": {},
-        "/items/power_coffee": {},
-        "/items/precision": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/prime_catalyst": {
-          "0": {
-            "a": 9200000000,
-            "b": -1
-          }
-        },
-        "/items/processing_tea": {},
-        "/items/provoke": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/puncture": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/purple_key_fragment": {
-          "0": {
-            "a": 50000,
-            "b": -1
-          }
-        },
-        "/items/purpleheart_bow": {
-          "0": {
-            "a": 8800,
-            "b": -1
-          }
-        },
-        "/items/purpleheart_crossbow": {
-          "0": {
-            "a": 6600,
-            "b": -1
-          }
-        },
-        "/items/purpleheart_fire_staff": {
-          "0": {
-            "a": 6600,
-            "b": -1
-          }
-        },
-        "/items/purpleheart_log": {
-          "0": {
-            "a": 120,
-            "b": -1
-          }
-        },
-        "/items/purpleheart_lumber": {
-          "0": {
-            "a": 3000000,
-            "b": -1
-          }
-        },
-        "/items/purpleheart_nature_staff": {
-          "0": {
-            "a": 6600,
-            "b": -1
-          }
-        },
-        "/items/purpleheart_shield": {},
-        "/items/purpleheart_water_staff": {
-          "0": {
-            "a": 6600,
-            "b": -1
-          }
-        },
-        "/items/quick_aid": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/quick_shot": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/radiant_boots": {
-          "0": {
-            "a": 180000,
-            "b": -1
-          }
-        },
-        "/items/radiant_fabric": {
-          "0": {
-            "a": 245,
-            "b": -1
-          }
-        },
-        "/items/radiant_fiber": {
-          "0": {
-            "a": 100000000000,
-            "b": -1
-          }
-        },
-        "/items/radiant_gloves": {
-          "0": {
-            "a": 180000,
-            "b": -1
-          }
-        },
-        "/items/radiant_hat": {
-          "0": {
-            "a": 52000,
-            "b": -1
-          }
-        },
-        "/items/radiant_robe_bottoms": {
-          "0": {
-            "a": 40000,
-            "b": -1
-          }
-        },
-        "/items/radiant_robe_top": {
-          "0": {
-            "a": 90000,
-            "b": -1
-          }
-        },
-        "/items/rain_of_arrows": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/rainbow_alembic": {
-          "0": {
-            "a": 25500,
-            "b": -1
-          }
-        },
-        "/items/rainbow_boots": {
-          "0": {
-            "a": 115000,
-            "b": -1
-          }
-        },
-        "/items/rainbow_brush": {
-          "0": {
-            "a": 25500,
-            "b": -1
-          }
-        },
-        "/items/rainbow_buckler": {},
-        "/items/rainbow_bulwark": {
-          "0": {
-            "a": 86000,
-            "b": -1
-          }
-        },
-        "/items/rainbow_cheese": {
-          "0": {
-            "a": 200,
-            "b": -1
-          }
-        },
-        "/items/rainbow_chisel": {},
-        "/items/rainbow_enhancer": {
-          "0": {
-            "a": 25500,
-            "b": -1
-          },
-          "10": {
-            "a": 12500000000,
-            "b": -1
-          },
-          "7": {
-            "a": 100000000000,
-            "b": -1
-          }
-        },
-        "/items/rainbow_gauntlets": {
-          "0": {
-            "a": 29000,
-            "b": -1
-          }
-        },
-        "/items/rainbow_hammer": {},
-        "/items/rainbow_hatchet": {},
-        "/items/rainbow_helmet": {
-          "0": {
-            "a": 18000,
-            "b": -1
-          }
-        },
-        "/items/rainbow_mace": {
-          "0": {
-            "a": 32000,
-            "b": -1
-          }
-        },
-        "/items/rainbow_milk": {
-          "0": {
-            "a": 47000,
-            "b": -1
-          }
-        },
-        "/items/rainbow_needle": {
-          "0": {
-            "a": 25500,
-            "b": -1
-          }
-        },
-        "/items/rainbow_plate_body": {
-          "0": {
-            "a": 28500,
-            "b": -1
-          }
-        },
-        "/items/rainbow_plate_legs": {
-          "0": {
-            "a": 25500,
-            "b": -1
-          }
-        },
-        "/items/rainbow_pot": {},
-        "/items/rainbow_shears": {},
-        "/items/rainbow_spatula": {},
-        "/items/rainbow_spear": {
-          "0": {
-            "a": 64000,
-            "b": -1
-          }
-        },
-        "/items/rainbow_sword": {
-          "0": {
-            "a": 64000,
-            "b": -1
-          }
-        },
-        "/items/ranged_coffee": {},
-        "/items/ranger_necklace": {},
-        "/items/red_culinary_hat": {
-          "0": {
-            "a": 100000000000,
-            "b": -1
-          }
-        },
-        "/items/red_panda_fluff": {},
-        "/items/red_tea_leaf": {
-          "0": {
-            "a": 10000000000,
-            "b": -1
-          }
-        },
-        "/items/redwood_bow": {
-          "0": {
-            "a": 43000,
-            "b": -1
-          }
-        },
-        "/items/redwood_crossbow": {
-          "0": {
-            "a": 32000,
-            "b": -1
-          }
-        },
-        "/items/redwood_fire_staff": {
-          "0": {
-            "a": 32000,
-            "b": -1
-          }
-        },
-        "/items/redwood_log": {
-          "0": {
-            "a": 240,
-            "b": -1
-          }
-        },
-        "/items/redwood_lumber": {
-          "0": {
-            "a": 98000000000,
-            "b": -1
-          }
-        },
-        "/items/redwood_nature_staff": {
-          "0": {
-            "a": 32000,
-            "b": -1
-          }
-        },
-        "/items/redwood_shield": {},
-        "/items/redwood_water_staff": {
-          "0": {
-            "a": 32000,
-            "b": -1
-          }
-        },
-        "/items/regal_jewel": {
-          "0": {
-            "a": 10000000000,
-            "b": -1
-          }
-        },
-        "/items/regal_sword": {
-          "0": {
-            "a": 5200000,
-            "b": -1
-          },
-          "5": {
-            "a": 70000000000,
-            "b": -1
-          },
-          "7": {
-            "a": 100000000000,
-            "b": -1
-          }
-        },
-        "/items/rejuvenate": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/reptile_boots": {
-          "0": {
-            "a": 4600,
-            "b": -1
-          }
-        },
-        "/items/reptile_bracers": {
-          "0": {
-            "a": 4600,
-            "b": -1
-          }
-        },
-        "/items/reptile_chaps": {
-          "0": {
-            "a": 4200,
-            "b": -1
-          }
-        },
-        "/items/reptile_hide": {
-          "0": {
-            "a": 8800000000,
-            "b": -1
-          }
-        },
-        "/items/reptile_hood": {
-          "0": {
-            "a": 1400,
-            "b": -1
-          }
-        },
-        "/items/reptile_leather": {},
-        "/items/reptile_tunic": {
-          "0": {
-            "a": 4800,
-            "b": -1
-          }
-        },
-        "/items/revenant_anima": {},
-        "/items/revenant_chaps": {
-          "0": {
-            "a": 330000,
-            "b": -1
-          }
-        },
-        "/items/revenant_tunic": {
-          "0": {
-            "a": 410000,
-            "b": -1
-          }
-        },
-        "/items/revive": {
-          "0": {
-            "a": 20000,
-            "b": -1
-          }
-        },
-        "/items/ring_of_armor": {},
-        "/items/ring_of_critical_strike": {
-          "0": {
-            "a": 100000000000,
-            "b": -1
-          }
-        },
-        "/items/ring_of_essence_find": {},
-        "/items/ring_of_gathering": {
-          "3": {
-            "a": 10000,
-            "b": -1
-          }
-        },
-        "/items/ring_of_rare_find": {},
-        "/items/ring_of_regeneration": {
-          "10": {
-            "a": 12500000000,
-            "b": -1
-          }
-        },
-        "/items/ring_of_resistance": {},
-        "/items/rippling_trident": {
-          "0": {
-            "a": 5000000,
-            "b": -1
-          }
-        },
-        "/items/robusta_coffee_bean": {},
-        "/items/rough_boots": {
-          "0": {
-            "a": 64,
-            "b": -1
-          },
-          "1": {
-            "a": 66,
-            "b": -1
-          }
-        },
-        "/items/rough_bracers": {
-          "0": {
-            "a": 66,
-            "b": -1
-          }
-        },
-        "/items/rough_chaps": {
-          "0": {
-            "a": 1800,
-            "b": -1
-          }
-        },
-        "/items/rough_hide": {
-          "0": {
-            "a": 6400,
-            "b": -1
-          }
-        },
-        "/items/rough_hood": {},
-        "/items/rough_leather": {
-          "0": {
-            "a": 200000,
-            "b": -1
-          }
-        },
-        "/items/rough_tunic": {
-          "0": {
-            "a": 520,
-            "b": -1
-          }
-        },
-        "/items/royal_cloth": {
-          "0": {
-            "a": 10000000,
-            "b": -1
-          }
-        },
-        "/items/royal_fire_robe_bottoms": {
-          "0": {
-            "a": 100000000000,
-            "b": -1
-          }
-        },
-        "/items/royal_fire_robe_top": {
-          "0": {
-            "a": 100000000000,
-            "b": -1
-          },
-          "8": {
-            "a": 580000000,
-            "b": -1
-          }
-        },
-        "/items/royal_nature_robe_bottoms": {
-          "0": {
-            "a": 100000000000,
-            "b": -1
-          }
-        },
-        "/items/royal_nature_robe_top": {
-          "0": {
-            "a": 100000000000,
-            "b": -1
-          }
-        },
-        "/items/royal_water_robe_bottoms": {
-          "0": {
-            "a": 100000000000,
-            "b": -1
-          }
-        },
-        "/items/royal_water_robe_top": {
-          "0": {
-            "a": 100000000000,
-            "b": -1
-          }
-        },
-        "/items/scratch": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/shard_of_protection": {
-          "0": {
-            "a": 31000000,
-            "b": -1
-          }
-        },
-        "/items/shield_bash": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/shoebill_feather": {},
-        "/items/shoebill_shoes": {
-          "10": {
-            "a": 100000000000,
-            "b": -1
-          }
-        },
-        "/items/sighted_bracers": {
-          "10": {
-            "a": 100000000000,
-            "b": -1
-          }
-        },
-        "/items/silencing_shot": {
-          "0": {
-            "a": 1950,
-            "b": -1
-          }
-        },
-        "/items/silk_boots": {
-          "0": {
-            "a": 8200,
-            "b": -1
-          }
-        },
-        "/items/silk_fabric": {
-          "0": {
-            "a": 82,
-            "b": -1
-          }
-        },
-        "/items/silk_gloves": {
-          "0": {
-            "a": 64000,
-            "b": -1
-          },
-          "3": {
-            "a": 100000,
-            "b": -1
-          }
-        },
-        "/items/silk_hat": {
-          "0": {
-            "a": 10000,
-            "b": -1
-          }
-        },
-        "/items/silk_robe_bottoms": {
-          "0": {
-            "a": 14500,
-            "b": -1
-          }
-        },
-        "/items/silk_robe_top": {
-          "0": {
-            "a": 16500,
-            "b": -1
-          }
-        },
-        "/items/sinister_chest_key": {
-          "0": {
-            "a": 600000,
-            "b": -1
-          }
-        },
-        "/items/sinister_entry_key": {
-          "0": {
-            "a": 58000,
-            "b": -1
-          }
-        },
-        "/items/sinister_essence": {
-          "0": {
-            "a": 10000000000,
-            "b": -1
-          }
-        },
-        "/items/smack": {
-          "0": {
-            "a": 1950,
-            "b": -1
-          }
-        },
-        "/items/small_pouch": {
-          "0": {
-            "a": 16000,
-            "b": -1
-          }
-        },
-        "/items/smoke_burst": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/snail_shell": {
-          "0": {
-            "a": 9800000000,
-            "b": -1
-          }
-        },
-        "/items/snail_shell_helmet": {
-          "0": {
-            "a": 6200,
-            "b": -1
-          }
-        },
-        "/items/snake_fang": {
-          "0": {
-            "a": 9800000000,
-            "b": -1
-          }
-        },
-        "/items/snake_fang_dirk": {
-          "0": {
-            "a": 2050,
-            "b": -1
-          }
-        },
-        "/items/sorcerer_boots": {
-          "0": {
-            "a": 800000000,
-            "b": -1
-          }
-        },
-        "/items/sorcerer_essence": {
-          "0": {
-            "a": 37,
-            "b": -1
-          }
-        },
-        "/items/sorcerers_sole": {},
-        "/items/soul_fragment": {
-          "0": {
-            "a": 100000000,
-            "b": -1
-          }
-        },
-        "/items/soul_hunter_crossbow": {
-          "0": {
-            "a": 410000,
-            "b": -1
-          }
-        },
-        "/items/spaceberry": {
-          "0": {
-            "a": 21,
-            "b": -1
-          }
-        },
-        "/items/spaceberry_cake": {
-          "0": {
-            "a": 78,
-            "b": -1
-          }
-        },
-        "/items/spaceberry_donut": {
-          "0": {
-            "a": 150,
-            "b": -1
-          }
-        },
-        "/items/spacia_coffee_bean": {
-          "0": {
-            "a": 82,
-            "b": -1
-          }
-        },
-        "/items/speed_aura": {
-          "0": {
-            "a": 20000,
-            "b": -1
-          }
-        },
-        "/items/spike_shell": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/spiked_bulwark": {},
-        "/items/stalactite_shard": {
-          "0": {
-            "a": 10000000000,
-            "b": -1
-          }
-        },
-        "/items/stalactite_spear": {
-          "0": {
-            "a": 500000,
-            "b": -1
-          }
-        },
-        "/items/stamina_coffee": {},
-        "/items/star_fragment": {
-          "0": {
-            "a": 13500,
-            "b": -1
-          }
-        },
-        "/items/star_fruit": {
-          "0": {
-            "a": 9200000000,
-            "b": -1
-          }
-        },
-        "/items/star_fruit_gummy": {
-          "0": {
-            "a": 390,
-            "b": -1
-          }
-        },
-        "/items/star_fruit_yogurt": {
-          "0": {
-            "a": 150,
-            "b": -1
-          }
-        },
-        "/items/steady_shot": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/stone_key_fragment": {
-          "0": {
-            "a": 160000,
-            "b": -1
-          }
-        },
-        "/items/strawberry": {
-          "0": {
-            "a": 7,
-            "b": -1
-          }
-        },
-        "/items/strawberry_cake": {
-          "0": {
-            "a": 60,
-            "b": -1
-          }
-        },
-        "/items/strawberry_donut": {
-          "0": {
-            "a": 60,
-            "b": -1
-          }
-        },
-        "/items/stunning_blow": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/sugar": {
-          "0": {
-            "a": 46,
-            "b": -1
-          }
-        },
-        "/items/sundering_crossbow": {
-          "0": {
-            "a": 3800000000,
-            "b": -1
-          }
-        },
-        "/items/sundering_jewel": {},
-        "/items/sunstone": {
-          "0": {
-            "a": 520000000,
-            "b": -1
-          }
-        },
-        "/items/super_alchemy_tea": {
-          "0": {
-            "a": 82,
-            "b": -1
-          }
-        },
-        "/items/super_attack_coffee": {
-          "0": {
-            "a": 82,
-            "b": -1
-          }
-        },
-        "/items/super_brewing_tea": {},
-        "/items/super_cheesesmithing_tea": {
-          "0": {
-            "a": 10000000000,
-            "b": -1
-          }
-        },
-        "/items/super_cooking_tea": {},
-        "/items/super_crafting_tea": {},
-        "/items/super_defense_coffee": {},
-        "/items/super_enhancing_tea": {},
-        "/items/super_foraging_tea": {},
-        "/items/super_intelligence_coffee": {
-          "0": {
-            "a": 60,
-            "b": -1
-          }
-        },
-        "/items/super_magic_coffee": {
-          "0": {
-            "a": 125,
-            "b": -1
-          }
-        },
-        "/items/super_milking_tea": {},
-        "/items/super_power_coffee": {
-          "0": {
-            "a": 125,
-            "b": -1
-          }
-        },
-        "/items/super_ranged_coffee": {
-          "0": {
-            "a": 7600,
-            "b": -1
-          }
-        },
-        "/items/super_stamina_coffee": {},
-        "/items/super_tailoring_tea": {},
-        "/items/super_woodcutting_tea": {},
-        "/items/swamp_essence": {
-          "0": {
-            "a": 240000000,
-            "b": -1
-          }
-        },
-        "/items/sweep": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/swiftness_coffee": {},
-        "/items/sylvan_aura": {
-          "0": {
-            "a": 20000,
-            "b": -1
-          }
-        },
-        "/items/tailoring_essence": {},
-        "/items/tailoring_tea": {
-          "0": {
-            "a": 160000,
-            "b": -1
-          }
-        },
-        "/items/tailors_bottoms": {},
-        "/items/tailors_top": {
-          "0": {
-            "a": 7000000,
-            "b": -1
-          }
-        },
-        "/items/taunt": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/thread_of_expertise": {
-          "0": {
-            "a": 200000,
-            "b": -1
-          }
-        },
-        "/items/tome_of_healing": {},
-        "/items/tome_of_the_elements": {},
-        "/items/toughness": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/toxic_pollen": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/treant_bark": {},
-        "/items/treant_shield": {},
-        "/items/turtle_shell": {},
-        "/items/turtle_shell_body": {
-          "0": {
-            "a": 9200,
-            "b": -1
-          }
-        },
-        "/items/turtle_shell_legs": {},
-        "/items/twilight_essence": {
-          "0": {
-            "a": 10000000000,
-            "b": -1
-          }
-        },
-        "/items/ultra_alchemy_tea": {
-          "0": {
-            "a": 360,
-            "b": -1
-          }
-        },
-        "/items/ultra_attack_coffee": {
-          "0": {
-            "a": 360,
-            "b": -1
-          }
-        },
-        "/items/ultra_brewing_tea": {
-          "0": {
-            "a": 360,
-            "b": -1
-          }
-        },
-        "/items/ultra_cheesesmithing_tea": {
-          "0": {
-            "a": 420,
-            "b": -1
-          }
-        },
-        "/items/ultra_cooking_tea": {
-          "0": {
-            "a": 185,
-            "b": -1
-          }
-        },
-        "/items/ultra_crafting_tea": {
-          "0": {
-            "a": 420,
-            "b": -1
-          }
-        },
-        "/items/ultra_defense_coffee": {
-          "0": {
-            "a": 360,
-            "b": -1
-          }
-        },
-        "/items/ultra_enhancing_tea": {
-          "0": {
-            "a": 360,
-            "b": -1
-          }
-        },
-        "/items/ultra_foraging_tea": {
-          "0": {
-            "a": 300,
-            "b": -1
-          }
-        },
-        "/items/ultra_intelligence_coffee": {
-          "0": {
-            "a": 300,
-            "b": -1
-          }
-        },
-        "/items/ultra_magic_coffee": {
-          "0": {
-            "a": 420,
-            "b": -1
-          }
-        },
-        "/items/ultra_milking_tea": {
-          "0": {
-            "a": 155,
-            "b": -1
-          }
-        },
-        "/items/ultra_power_coffee": {
-          "0": {
-            "a": 420,
-            "b": -1
-          }
-        },
-        "/items/ultra_ranged_coffee": {
-          "0": {
-            "a": 420,
-            "b": -1
-          }
-        },
-        "/items/ultra_stamina_coffee": {
-          "0": {
-            "a": 300,
-            "b": -1
-          }
-        },
-        "/items/ultra_tailoring_tea": {
-          "0": {
-            "a": 215,
-            "b": -1
-          }
-        },
-        "/items/ultra_woodcutting_tea": {
-          "0": {
-            "a": 300,
-            "b": -1
-          }
-        },
-        "/items/umbral_boots": {
-          "0": {
-            "a": 180000,
-            "b": -1
-          }
-        },
-        "/items/umbral_bracers": {
-          "0": {
-            "a": 23000,
-            "b": -1
-          }
-        },
-        "/items/umbral_chaps": {
-          "0": {
-            "a": 155000,
-            "b": -1
-          }
-        },
-        "/items/umbral_hide": {
-          "0": {
-            "a": 490000000,
-            "b": -1
-          }
-        },
-        "/items/umbral_hood": {
-          "0": {
-            "a": 28000,
-            "b": -1
-          }
-        },
-        "/items/umbral_leather": {
-          "0": {
-            "a": 240,
-            "b": -1
-          }
-        },
-        "/items/umbral_tunic": {
-          "0": {
-            "a": 180000,
-            "b": -1
-          }
-        },
-        "/items/vampire_fang": {},
-        "/items/vampire_fang_dirk": {
-          "0": {
-            "a": 1000000,
-            "b": -1
-          }
-        },
-        "/items/vampiric_bow": {
-          "0": {
-            "a": 410000,
-            "b": -1
-          }
-        },
-        "/items/vampirism": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/verdant_alembic": {
-          "0": {
-            "a": 580,
-            "b": -1
-          }
-        },
-        "/items/verdant_boots": {
-          "0": {
-            "a": 5000,
-            "b": -1
-          }
-        },
-        "/items/verdant_brush": {
-          "0": {
-            "a": 1700,
-            "b": -1
-          }
-        },
-        "/items/verdant_buckler": {},
-        "/items/verdant_bulwark": {
-          "0": {
-            "a": 960000000,
-            "b": -1
-          }
-        },
-        "/items/verdant_cheese": {
-          "0": {
-            "a": 32,
-            "b": -1
-          }
-        },
-        "/items/verdant_chisel": {},
-        "/items/verdant_enhancer": {},
-        "/items/verdant_gauntlets": {
-          "0": {
-            "a": 2500,
-            "b": -1
-          }
-        },
-        "/items/verdant_hammer": {},
-        "/items/verdant_hatchet": {},
-        "/items/verdant_helmet": {
-          "0": {
-            "a": 410,
-            "b": -1
-          }
-        },
-        "/items/verdant_mace": {
-          "0": {
-            "a": 720,
-            "b": -1
-          }
-        },
-        "/items/verdant_milk": {
-          "0": {
-            "a": 8,
-            "b": -1
-          }
-        },
-        "/items/verdant_needle": {},
-        "/items/verdant_plate_body": {
-          "0": {
-            "a": 1250,
-            "b": -1
-          }
-        },
-        "/items/verdant_plate_legs": {
-          "0": {
-            "a": 2200,
-            "b": -1
-          }
-        },
-        "/items/verdant_pot": {
-          "0": {
-            "a": 560,
-            "b": -1
-          }
-        },
-        "/items/verdant_shears": {},
-        "/items/verdant_spatula": {},
-        "/items/verdant_spear": {
-          "0": {
-            "a": 1400,
-            "b": -1
-          }
-        },
-        "/items/verdant_sword": {
-          "0": {
-            "a": 720,
-            "b": -1
-          }
-        },
-        "/items/vision_helmet": {
-          "0": {
-            "a": 20500,
-            "b": -1
-          },
-          "10": {
-            "a": 10000000000,
-            "b": -1
-          }
-        },
-        "/items/vision_shield": {},
-        "/items/watchful_relic": {
-          "0": {
-            "a": 100000000000,
-            "b": -1
-          }
-        },
-        "/items/water_strike": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/werewolf_claw": {},
-        "/items/werewolf_slasher": {},
-        "/items/wheat": {
-          "0": {
-            "a": 195000,
-            "b": -1
-          }
-        },
-        "/items/white_key_fragment": {
-          "0": {
-            "a": 100000,
-            "b": -1
-          }
-        },
-        "/items/wisdom_coffee": {
-          "0": {
-            "a": 41,
-            "b": -1
-          }
-        },
-        "/items/wisdom_tea": {},
-        "/items/wizard_necklace": {},
-        "/items/woodcutting_essence": {
-          "0": {
-            "a": 74000000,
-            "b": -1
-          }
-        },
-        "/items/woodcutting_tea": {
-          "0": {
-            "a": 11,
-            "b": -1
-          }
-        },
-        "/items/wooden_bow": {},
-        "/items/wooden_crossbow": {},
-        "/items/wooden_fire_staff": {
-          "0": {
-            "a": 2000,
-            "b": -1
-          }
-        },
-        "/items/wooden_nature_staff": {
-          "0": {
-            "a": 600,
-            "b": -1
-          }
-        },
-        "/items/wooden_shield": {},
-        "/items/wooden_water_staff": {
-          "0": {
-            "a": 19000,
-            "b": -1
-          }
-        },
-        "/items/yogurt": {
-          "0": {
-            "a": 1250000000,
-            "b": -1
-          }
-        }
-      }
-    },
-    {
       "timestamp": 1749129778,
       "marketData": {
         "/items/abyssal_essence": {
@@ -13991,6 +10522,3555 @@
           }
         }
       }
+    },
+    {
+      "timestamp": 1749195232,
+      "marketData": {
+        "/items/abyssal_essence": {
+          "0": {
+            "a": 110,
+            "b": -1
+          }
+        },
+        "/items/acrobatic_hood": {
+          "0": {
+            "a": 3600000,
+            "b": -1
+          }
+        },
+        "/items/acrobats_ribbon": {},
+        "/items/alchemists_bottoms": {},
+        "/items/alchemists_top": {},
+        "/items/alchemy_essence": {
+          "0": {
+            "a": 94000,
+            "b": -1
+          }
+        },
+        "/items/alchemy_tea": {
+          "0": {
+            "a": 9600000000,
+            "b": -1
+          }
+        },
+        "/items/amber": {
+          "0": {
+            "a": 155000,
+            "b": -1
+          }
+        },
+        "/items/amethyst": {
+          "0": {
+            "a": 440000000,
+            "b": -1
+          }
+        },
+        "/items/anchorbound_plate_body": {
+          "0": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/anchorbound_plate_legs": {
+          "0": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/apple": {
+          "0": {
+            "a": 4,
+            "b": -1
+          }
+        },
+        "/items/apple_gummy": {
+          "0": {
+            "a": 2200,
+            "b": -1
+          }
+        },
+        "/items/apple_yogurt": {},
+        "/items/aqua_arrow": {
+          "0": {
+            "a": 1950,
+            "b": -1
+          }
+        },
+        "/items/aqua_aura": {
+          "0": {
+            "a": 20000,
+            "b": -1
+          }
+        },
+        "/items/aqua_essence": {
+          "0": {
+            "a": 10000000000,
+            "b": -1
+          }
+        },
+        "/items/arabica_coffee_bean": {},
+        "/items/arcane_bow": {
+          "0": {
+            "a": 160000,
+            "b": -1
+          }
+        },
+        "/items/arcane_crossbow": {
+          "0": {
+            "a": 80000,
+            "b": -1
+          }
+        },
+        "/items/arcane_fire_staff": {
+          "0": {
+            "a": 300000,
+            "b": -1
+          }
+        },
+        "/items/arcane_log": {
+          "0": {
+            "a": 400,
+            "b": -1
+          }
+        },
+        "/items/arcane_lumber": {
+          "0": {
+            "a": 9600000000,
+            "b": -1
+          }
+        },
+        "/items/arcane_nature_staff": {
+          "0": {
+            "a": 80000,
+            "b": -1
+          }
+        },
+        "/items/arcane_reflection": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/arcane_shield": {},
+        "/items/arcane_water_staff": {
+          "0": {
+            "a": 80000,
+            "b": -1
+          }
+        },
+        "/items/artisan_tea": {},
+        "/items/attack_coffee": {},
+        "/items/azure_alembic": {},
+        "/items/azure_boots": {
+          "0": {
+            "a": 9600,
+            "b": -1
+          }
+        },
+        "/items/azure_brush": {
+          "0": {
+            "a": 2100,
+            "b": -1
+          }
+        },
+        "/items/azure_buckler": {},
+        "/items/azure_bulwark": {},
+        "/items/azure_cheese": {
+          "0": {
+            "a": 64,
+            "b": -1
+          }
+        },
+        "/items/azure_chisel": {},
+        "/items/azure_enhancer": {},
+        "/items/azure_gauntlets": {
+          "0": {
+            "a": 4800,
+            "b": -1
+          }
+        },
+        "/items/azure_hammer": {},
+        "/items/azure_hatchet": {},
+        "/items/azure_helmet": {
+          "0": {
+            "a": 1450,
+            "b": -1
+          }
+        },
+        "/items/azure_mace": {
+          "0": {
+            "a": 2600,
+            "b": -1
+          }
+        },
+        "/items/azure_milk": {
+          "0": {
+            "a": 16,
+            "b": -1
+          }
+        },
+        "/items/azure_needle": {},
+        "/items/azure_plate_body": {
+          "0": {
+            "a": 4700,
+            "b": -1
+          }
+        },
+        "/items/azure_plate_legs": {
+          "0": {
+            "a": 8200,
+            "b": -1
+          }
+        },
+        "/items/azure_pot": {
+          "0": {
+            "a": 2100,
+            "b": -1
+          }
+        },
+        "/items/azure_shears": {},
+        "/items/azure_spatula": {},
+        "/items/azure_spear": {
+          "0": {
+            "a": 2650,
+            "b": -1
+          }
+        },
+        "/items/azure_sword": {
+          "0": {
+            "a": 5200,
+            "b": -1
+          }
+        },
+        "/items/bag_of_10_cowbells": {
+          "0": {
+            "a": 92000,
+            "b": -1
+          }
+        },
+        "/items/bamboo_boots": {
+          "0": {
+            "a": 40000,
+            "b": -1
+          }
+        },
+        "/items/bamboo_branch": {},
+        "/items/bamboo_fabric": {},
+        "/items/bamboo_gloves": {
+          "0": {
+            "a": 2550,
+            "b": -1
+          }
+        },
+        "/items/bamboo_hat": {
+          "0": {
+            "a": 3200,
+            "b": -1
+          }
+        },
+        "/items/bamboo_robe_bottoms": {
+          "0": {
+            "a": 17500,
+            "b": -1
+          }
+        },
+        "/items/bamboo_robe_top": {
+          "0": {
+            "a": 5000,
+            "b": -1
+          }
+        },
+        "/items/bear_essence": {
+          "0": {
+            "a": 2450000000,
+            "b": -1
+          }
+        },
+        "/items/beast_boots": {
+          "0": {
+            "a": 64000,
+            "b": -1
+          }
+        },
+        "/items/beast_bracers": {
+          "0": {
+            "a": 64000,
+            "b": -1
+          }
+        },
+        "/items/beast_chaps": {
+          "0": {
+            "a": 56000,
+            "b": -1
+          }
+        },
+        "/items/beast_hide": {},
+        "/items/beast_hood": {
+          "0": {
+            "a": 10000,
+            "b": -1
+          }
+        },
+        "/items/beast_leather": {
+          "0": {
+            "a": 160,
+            "b": -1
+          }
+        },
+        "/items/beast_tunic": {
+          "0": {
+            "a": 64000,
+            "b": -1
+          }
+        },
+        "/items/berserk": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/birch_bow": {
+          "0": {
+            "a": 2500,
+            "b": -1
+          }
+        },
+        "/items/birch_crossbow": {
+          "0": {
+            "a": 720,
+            "b": -1
+          }
+        },
+        "/items/birch_fire_staff": {
+          "0": {
+            "a": 720,
+            "b": -1
+          }
+        },
+        "/items/birch_log": {
+          "0": {
+            "a": 40,
+            "b": -1
+          }
+        },
+        "/items/birch_lumber": {
+          "0": {
+            "a": 250000000,
+            "b": -1
+          }
+        },
+        "/items/birch_nature_staff": {
+          "0": {
+            "a": 720,
+            "b": -1
+          }
+        },
+        "/items/birch_shield": {
+          "0": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/birch_water_staff": {
+          "0": {
+            "a": 720,
+            "b": -1
+          }
+        },
+        "/items/bishops_codex": {
+          "0": {
+            "a": 4900000,
+            "b": -1
+          }
+        },
+        "/items/bishops_scroll": {},
+        "/items/black_bear_fluff": {},
+        "/items/black_bear_shoes": {},
+        "/items/black_tea_leaf": {
+          "0": {
+            "a": 120000000,
+            "b": -1
+          }
+        },
+        "/items/blackberry": {
+          "0": {
+            "a": 500000000,
+            "b": -1
+          }
+        },
+        "/items/blackberry_cake": {
+          "0": {
+            "a": 40,
+            "b": -1
+          }
+        },
+        "/items/blackberry_donut": {
+          "0": {
+            "a": 40,
+            "b": -1
+          }
+        },
+        "/items/blazing_trident": {
+          "0": {
+            "a": 10000000,
+            "b": -1
+          }
+        },
+        "/items/blessed_tea": {
+          "0": {
+            "a": 125,
+            "b": -1
+          }
+        },
+        "/items/blooming_trident": {
+          "0": {
+            "a": 5000000,
+            "b": -1
+          }
+        },
+        "/items/blue_key_fragment": {
+          "0": {
+            "a": 50000,
+            "b": -1
+          }
+        },
+        "/items/blueberry": {
+          "0": {
+            "a": 125000000,
+            "b": -1
+          }
+        },
+        "/items/blueberry_cake": {
+          "0": {
+            "a": 20,
+            "b": -1
+          }
+        },
+        "/items/blueberry_donut": {
+          "0": {
+            "a": 20,
+            "b": -1
+          }
+        },
+        "/items/branch_of_insight": {
+          "0": {
+            "a": 150000,
+            "b": -1
+          }
+        },
+        "/items/brewers_bottoms": {},
+        "/items/brewers_top": {},
+        "/items/brewing_essence": {
+          "0": {
+            "a": 50,
+            "b": -1
+          }
+        },
+        "/items/brewing_tea": {
+          "0": {
+            "a": 21,
+            "b": -1
+          }
+        },
+        "/items/brown_key_fragment": {
+          "0": {
+            "a": 100000,
+            "b": -1
+          }
+        },
+        "/items/burble_alembic": {
+          "0": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/burble_boots": {
+          "0": {
+            "a": 23000,
+            "b": -1
+          }
+        },
+        "/items/burble_brush": {
+          "0": {
+            "a": 5400,
+            "b": -1
+          }
+        },
+        "/items/burble_buckler": {},
+        "/items/burble_bulwark": {},
+        "/items/burble_cheese": {
+          "0": {
+            "a": 96,
+            "b": -1
+          }
+        },
+        "/items/burble_chisel": {},
+        "/items/burble_enhancer": {
+          "10": {
+            "a": 160000000,
+            "b": -1
+          }
+        },
+        "/items/burble_gauntlets": {
+          "0": {
+            "a": 11500,
+            "b": -1
+          }
+        },
+        "/items/burble_hammer": {},
+        "/items/burble_hatchet": {},
+        "/items/burble_helmet": {
+          "0": {
+            "a": 3600,
+            "b": -1
+          }
+        },
+        "/items/burble_mace": {
+          "0": {
+            "a": 6600,
+            "b": -1
+          }
+        },
+        "/items/burble_milk": {
+          "0": {
+            "a": 175,
+            "b": -1
+          }
+        },
+        "/items/burble_needle": {},
+        "/items/burble_plate_body": {
+          "0": {
+            "a": 11500,
+            "b": -1
+          }
+        },
+        "/items/burble_plate_legs": {
+          "0": {
+            "a": 20000,
+            "b": -1
+          }
+        },
+        "/items/burble_pot": {
+          "0": {
+            "a": 5400,
+            "b": -1
+          }
+        },
+        "/items/burble_shears": {},
+        "/items/burble_spatula": {
+          "0": {
+            "a": 5200,
+            "b": -1
+          }
+        },
+        "/items/burble_spear": {
+          "0": {
+            "a": 13000,
+            "b": -1
+          }
+        },
+        "/items/burble_sword": {
+          "0": {
+            "a": 13000,
+            "b": -1
+          }
+        },
+        "/items/burble_tea_leaf": {
+          "0": {
+            "a": 25,
+            "b": -1
+          }
+        },
+        "/items/burning_key_fragment": {
+          "0": {
+            "a": 1600000,
+            "b": -1
+          }
+        },
+        "/items/butter_of_proficiency": {
+          "0": {
+            "a": 150000,
+            "b": -1
+          }
+        },
+        "/items/catalyst_of_coinification": {
+          "0": {
+            "a": 10000000000,
+            "b": -1
+          }
+        },
+        "/items/catalyst_of_decomposition": {},
+        "/items/catalyst_of_transmutation": {},
+        "/items/catalytic_tea": {},
+        "/items/cedar_bow": {
+          "0": {
+            "a": 3500,
+            "b": -1
+          }
+        },
+        "/items/cedar_crossbow": {
+          "0": {
+            "a": 2600,
+            "b": -1
+          }
+        },
+        "/items/cedar_fire_staff": {},
+        "/items/cedar_log": {
+          "0": {
+            "a": 44,
+            "b": -1
+          }
+        },
+        "/items/cedar_lumber": {
+          "0": {
+            "a": 20000000,
+            "b": -1
+          }
+        },
+        "/items/cedar_nature_staff": {
+          "0": {
+            "a": 2600,
+            "b": -1
+          }
+        },
+        "/items/cedar_shield": {},
+        "/items/cedar_water_staff": {
+          "0": {
+            "a": 2600,
+            "b": -1
+          }
+        },
+        "/items/celestial_alembic": {
+          "0": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/celestial_brush": {},
+        "/items/celestial_chisel": {
+          "0": {
+            "a": 5200000,
+            "b": -1
+          }
+        },
+        "/items/celestial_enhancer": {
+          "1": {
+            "a": 100000000000,
+            "b": -1
+          },
+          "10": {
+            "a": 48000000000,
+            "b": -1
+          },
+          "12": {
+            "a": 90000000000,
+            "b": -1
+          },
+          "13": {
+            "a": 100000000000,
+            "b": -1
+          },
+          "14": {
+            "a": 100000000000,
+            "b": -1
+          },
+          "5": {
+            "a": 40000000000,
+            "b": -1
+          },
+          "7": {
+            "a": 30000000000,
+            "b": -1
+          },
+          "8": {
+            "a": 35000000000,
+            "b": -1
+          },
+          "9": {
+            "a": 40000000000,
+            "b": -1
+          }
+        },
+        "/items/celestial_hammer": {},
+        "/items/celestial_hatchet": {},
+        "/items/celestial_needle": {},
+        "/items/celestial_pot": {},
+        "/items/celestial_shears": {},
+        "/items/celestial_spatula": {},
+        "/items/centaur_boots": {},
+        "/items/centaur_hoof": {
+          "0": {
+            "a": 10000,
+            "b": -1
+          }
+        },
+        "/items/channeling_coffee": {
+          "0": {
+            "a": 120,
+            "b": -1
+          }
+        },
+        "/items/chaotic_chain": {},
+        "/items/chaotic_flail": {
+          "0": {
+            "a": 100000000000,
+            "b": -1
+          },
+          "5": {
+            "a": 40000000000,
+            "b": -1
+          },
+          "7": {
+            "a": 5000000,
+            "b": -1
+          }
+        },
+        "/items/cheese": {
+          "0": {
+            "a": 16,
+            "b": -1
+          }
+        },
+        "/items/cheese_alembic": {
+          "0": {
+            "a": 110000000,
+            "b": -1
+          }
+        },
+        "/items/cheese_boots": {},
+        "/items/cheese_brush": {
+          "0": {
+            "a": 47000000000,
+            "b": -1
+          }
+        },
+        "/items/cheese_buckler": {
+          "0": {
+            "a": 23500000000,
+            "b": -1
+          },
+          "1": {
+            "a": 10000000000,
+            "b": -1
+          }
+        },
+        "/items/cheese_bulwark": {
+          "0": {
+            "a": 640000000,
+            "b": -1
+          }
+        },
+        "/items/cheese_chisel": {},
+        "/items/cheese_enhancer": {
+          "0": {
+            "a": 120,
+            "b": -1
+          }
+        },
+        "/items/cheese_gauntlets": {
+          "0": {
+            "a": 66,
+            "b": -1
+          }
+        },
+        "/items/cheese_hammer": {
+          "0": {
+            "a": 120,
+            "b": -1
+          }
+        },
+        "/items/cheese_hatchet": {
+          "0": {
+            "a": 120,
+            "b": -1
+          }
+        },
+        "/items/cheese_helmet": {
+          "0": {
+            "a": 80,
+            "b": -1
+          }
+        },
+        "/items/cheese_mace": {
+          "0": {
+            "a": 290,
+            "b": -1
+          }
+        },
+        "/items/cheese_needle": {
+          "0": {
+            "a": 120,
+            "b": -1
+          }
+        },
+        "/items/cheese_plate_body": {
+          "0": {
+            "a": 135,
+            "b": -1
+          }
+        },
+        "/items/cheese_plate_legs": {},
+        "/items/cheese_pot": {},
+        "/items/cheese_shears": {},
+        "/items/cheese_spatula": {},
+        "/items/cheese_spear": {
+          "0": {
+            "a": 150,
+            "b": -1
+          }
+        },
+        "/items/cheese_sword": {
+          "0": {
+            "a": 96000000000,
+            "b": -1
+          }
+        },
+        "/items/cheesemakers_bottoms": {},
+        "/items/cheesemakers_top": {},
+        "/items/cheesesmithing_essence": {
+          "0": {
+            "a": 10000000000,
+            "b": -1
+          }
+        },
+        "/items/cheesesmithing_tea": {},
+        "/items/chefs_bottoms": {},
+        "/items/chefs_top": {},
+        "/items/chimerical_chest_key": {
+          "0": {
+            "a": 400000,
+            "b": -1
+          }
+        },
+        "/items/chimerical_entry_key": {
+          "0": {
+            "a": 40000,
+            "b": -1
+          }
+        },
+        "/items/chimerical_essence": {
+          "0": {
+            "a": 50000000000,
+            "b": -1
+          }
+        },
+        "/items/chrono_gloves": {
+          "0": {
+            "a": 50000000000,
+            "b": -1
+          }
+        },
+        "/items/chrono_sphere": {
+          "0": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/cleave": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/cocoon": {
+          "0": {
+            "a": 80000000,
+            "b": -1
+          }
+        },
+        "/items/collectors_boots": {},
+        "/items/colossus_core": {
+          "0": {
+            "a": 40000,
+            "b": -1
+          }
+        },
+        "/items/colossus_plate_body": {
+          "0": {
+            "a": 410000,
+            "b": -1
+          }
+        },
+        "/items/colossus_plate_legs": {},
+        "/items/cooking_essence": {
+          "0": {
+            "a": 500000000,
+            "b": -1
+          }
+        },
+        "/items/cooking_tea": {
+          "0": {
+            "a": 21,
+            "b": -1
+          }
+        },
+        "/items/corsair_crest": {},
+        "/items/corsair_helmet": {
+          "0": {
+            "a": 3600000,
+            "b": -1
+          }
+        },
+        "/items/cotton": {
+          "0": {
+            "a": 145000,
+            "b": -1
+          }
+        },
+        "/items/cotton_boots": {},
+        "/items/cotton_fabric": {
+          "0": {
+            "a": 300000000,
+            "b": -1
+          }
+        },
+        "/items/cotton_gloves": {
+          "1": {
+            "a": 10000000000,
+            "b": -1
+          }
+        },
+        "/items/cotton_hat": {},
+        "/items/cotton_robe_bottoms": {},
+        "/items/cotton_robe_top": {
+          "0": {
+            "a": 1250,
+            "b": -1
+          }
+        },
+        "/items/crab_pincer": {
+          "0": {
+            "a": 9800000000,
+            "b": -1
+          }
+        },
+        "/items/crafters_bottoms": {},
+        "/items/crafters_top": {},
+        "/items/crafting_essence": {
+          "0": {
+            "a": 50,
+            "b": -1
+          }
+        },
+        "/items/crafting_tea": {},
+        "/items/crimson_alembic": {
+          "0": {
+            "a": 11500,
+            "b": -1
+          }
+        },
+        "/items/crimson_boots": {
+          "0": {
+            "a": 48000,
+            "b": -1
+          }
+        },
+        "/items/crimson_brush": {
+          "0": {
+            "a": 11500,
+            "b": -1
+          }
+        },
+        "/items/crimson_buckler": {},
+        "/items/crimson_bulwark": {},
+        "/items/crimson_cheese": {
+          "0": {
+            "a": 130,
+            "b": -1
+          }
+        },
+        "/items/crimson_chisel": {},
+        "/items/crimson_enhancer": {},
+        "/items/crimson_gauntlets": {
+          "0": {
+            "a": 24000,
+            "b": -1
+          }
+        },
+        "/items/crimson_hammer": {},
+        "/items/crimson_hatchet": {},
+        "/items/crimson_helmet": {
+          "0": {
+            "a": 7800,
+            "b": -1
+          }
+        },
+        "/items/crimson_mace": {
+          "0": {
+            "a": 14000,
+            "b": -1
+          }
+        },
+        "/items/crimson_milk": {
+          "0": {
+            "a": 32,
+            "b": -1
+          }
+        },
+        "/items/crimson_needle": {},
+        "/items/crimson_plate_body": {
+          "0": {
+            "a": 25000,
+            "b": -1
+          },
+          "2": {
+            "a": 66000,
+            "b": -1
+          }
+        },
+        "/items/crimson_plate_legs": {
+          "0": {
+            "a": 44000,
+            "b": -1
+          }
+        },
+        "/items/crimson_pot": {},
+        "/items/crimson_shears": {},
+        "/items/crimson_spatula": {
+          "0": {
+            "a": 11500,
+            "b": -1
+          }
+        },
+        "/items/crimson_spear": {
+          "0": {
+            "a": 28000,
+            "b": -1
+          }
+        },
+        "/items/crimson_sword": {
+          "0": {
+            "a": 28000,
+            "b": -1
+          }
+        },
+        "/items/crippling_slash": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/critical_aura": {
+          "0": {
+            "a": 20000,
+            "b": -1
+          }
+        },
+        "/items/critical_coffee": {
+          "0": {
+            "a": 125,
+            "b": -1
+          }
+        },
+        "/items/crushed_amber": {},
+        "/items/crushed_amethyst": {
+          "0": {
+            "a": 800,
+            "b": -1
+          }
+        },
+        "/items/crushed_garnet": {
+          "0": {
+            "a": 25000000000,
+            "b": -1
+          }
+        },
+        "/items/crushed_jade": {},
+        "/items/crushed_moonstone": {
+          "0": {
+            "a": 1000,
+            "b": -1
+          }
+        },
+        "/items/crushed_pearl": {
+          "0": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/crushed_philosophers_stone": {
+          "0": {
+            "a": 50000,
+            "b": -1
+          }
+        },
+        "/items/crushed_sunstone": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/cupcake": {
+          "0": {
+            "a": 10,
+            "b": -1
+          }
+        },
+        "/items/cursed_ball": {
+          "0": {
+            "a": 205000,
+            "b": -1
+          }
+        },
+        "/items/cursed_bow": {
+          "0": {
+            "a": 5200000,
+            "b": -1
+          }
+        },
+        "/items/dairyhands_bottoms": {},
+        "/items/dairyhands_top": {},
+        "/items/damaged_anchor": {
+          "0": {
+            "a": 9800000000,
+            "b": -1
+          }
+        },
+        "/items/dark_key_fragment": {
+          "0": {
+            "a": 160000,
+            "b": -1
+          }
+        },
+        "/items/defense_coffee": {},
+        "/items/demonic_core": {
+          "0": {
+            "a": 540000,
+            "b": -1
+          }
+        },
+        "/items/demonic_plate_body": {
+          "0": {
+            "a": 410000,
+            "b": -1
+          }
+        },
+        "/items/demonic_plate_legs": {
+          "0": {
+            "a": 640000,
+            "b": -1
+          },
+          "10": {
+            "a": 98000000000,
+            "b": -1
+          }
+        },
+        "/items/dodocamel_gauntlets": {
+          "0": {
+            "a": 100000000000,
+            "b": -1
+          },
+          "10": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/dodocamel_plume": {},
+        "/items/donut": {
+          "0": {
+            "a": 3200000000,
+            "b": -1
+          }
+        },
+        "/items/dragon_fruit": {
+          "0": {
+            "a": 19,
+            "b": -1
+          }
+        },
+        "/items/dragon_fruit_gummy": {
+          "0": {
+            "a": 50,
+            "b": -1
+          }
+        },
+        "/items/dragon_fruit_yogurt": {
+          "0": {
+            "a": 380,
+            "b": -1
+          }
+        },
+        "/items/earrings_of_armor": {},
+        "/items/earrings_of_critical_strike": {},
+        "/items/earrings_of_essence_find": {},
+        "/items/earrings_of_gathering": {
+          "3": {
+            "a": 10000,
+            "b": -1
+          }
+        },
+        "/items/earrings_of_rare_find": {},
+        "/items/earrings_of_regeneration": {
+          "10": {
+            "a": 15000000000,
+            "b": -1
+          },
+          "11": {
+            "a": 15000000000,
+            "b": -1
+          },
+          "5": {
+            "a": 240000000,
+            "b": -1
+          }
+        },
+        "/items/earrings_of_resistance": {},
+        "/items/efficiency_tea": {},
+        "/items/egg": {
+          "0": {
+            "a": 8000,
+            "b": -1
+          }
+        },
+        "/items/elemental_affinity": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/elusiveness": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/emp_tea_leaf": {
+          "0": {
+            "a": 82,
+            "b": -1
+          }
+        },
+        "/items/enchanted_chest_key": {
+          "0": {
+            "a": 1000000,
+            "b": -1
+          }
+        },
+        "/items/enchanted_entry_key": {
+          "0": {
+            "a": 100000,
+            "b": -1
+          }
+        },
+        "/items/enchanted_essence": {
+          "0": {
+            "a": 1250000000,
+            "b": -1
+          }
+        },
+        "/items/enchanted_gloves": {
+          "0": {
+            "a": 205000,
+            "b": -1
+          },
+          "5": {
+            "a": 88000000000,
+            "b": -1
+          },
+          "6": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/enhancers_bottoms": {
+          "0": {
+            "a": 3500000,
+            "b": -1
+          }
+        },
+        "/items/enhancers_top": {
+          "0": {
+            "a": 3600000,
+            "b": -1
+          },
+          "4": {
+            "a": 100000000000,
+            "b": -1
+          },
+          "5": {
+            "a": 10000000000,
+            "b": -1
+          }
+        },
+        "/items/enhancing_essence": {
+          "0": {
+            "a": 52,
+            "b": -1
+          }
+        },
+        "/items/enhancing_tea": {},
+        "/items/entangle": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/excelsa_coffee_bean": {
+          "0": {
+            "a": 32,
+            "b": -1
+          }
+        },
+        "/items/eye_of_the_watcher": {
+          "0": {
+            "a": 15000,
+            "b": -1
+          }
+        },
+        "/items/eye_watch": {
+          "0": {
+            "a": 400000,
+            "b": -1
+          }
+        },
+        "/items/eyessence": {
+          "0": {
+            "a": 10000000000,
+            "b": -1
+          }
+        },
+        "/items/fierce_aura": {
+          "0": {
+            "a": 20000,
+            "b": -1
+          }
+        },
+        "/items/fieriosa_coffee_bean": {
+          "0": {
+            "a": 48,
+            "b": -1
+          }
+        },
+        "/items/fighter_necklace": {},
+        "/items/fireball": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/firestorm": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/flame_arrow": {
+          "0": {
+            "a": 1950,
+            "b": -1
+          }
+        },
+        "/items/flame_aura": {
+          "0": {
+            "a": 20000,
+            "b": -1
+          }
+        },
+        "/items/flame_blast": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/flaming_cloth": {
+          "0": {
+            "a": 64000,
+            "b": -1
+          }
+        },
+        "/items/flaming_robe_bottoms": {},
+        "/items/flaming_robe_top": {
+          "0": {
+            "a": 120000,
+            "b": -1
+          },
+          "10": {
+            "a": 480000000,
+            "b": -1
+          }
+        },
+        "/items/flax": {},
+        "/items/fluffy_red_hat": {
+          "0": {
+            "a": 100000000000,
+            "b": -1
+          },
+          "10": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/foragers_bottoms": {},
+        "/items/foragers_top": {},
+        "/items/foraging_essence": {
+          "0": {
+            "a": 2450000000,
+            "b": -1
+          }
+        },
+        "/items/foraging_tea": {},
+        "/items/fracturing_impact": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/frenzy": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/frost_sphere": {},
+        "/items/frost_staff": {
+          "0": {
+            "a": 400000,
+            "b": -1
+          }
+        },
+        "/items/frost_surge": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/furious_spear": {
+          "0": {
+            "a": 5000000,
+            "b": -1
+          }
+        },
+        "/items/garnet": {
+          "0": {
+            "a": 920000000,
+            "b": -1
+          }
+        },
+        "/items/gathering_tea": {},
+        "/items/gator_vest": {
+          "0": {
+            "a": 160000000,
+            "b": -1
+          },
+          "10": {
+            "a": 10000000000,
+            "b": -1
+          }
+        },
+        "/items/giant_pouch": {
+          "0": {
+            "a": 1050000,
+            "b": -1
+          }
+        },
+        "/items/ginkgo_bow": {
+          "0": {
+            "a": 18500,
+            "b": -1
+          }
+        },
+        "/items/ginkgo_crossbow": {
+          "0": {
+            "a": 14000,
+            "b": -1
+          }
+        },
+        "/items/ginkgo_fire_staff": {},
+        "/items/ginkgo_log": {
+          "0": {
+            "a": 160,
+            "b": -1
+          }
+        },
+        "/items/ginkgo_lumber": {
+          "0": {
+            "a": 1000000,
+            "b": -1
+          }
+        },
+        "/items/ginkgo_nature_staff": {
+          "0": {
+            "a": 14000,
+            "b": -1
+          }
+        },
+        "/items/ginkgo_shield": {},
+        "/items/ginkgo_water_staff": {
+          "0": {
+            "a": 14000,
+            "b": -1
+          }
+        },
+        "/items/gluttonous_energy": {
+          "0": {
+            "a": 400000,
+            "b": -1
+          }
+        },
+        "/items/gluttonous_pouch": {
+          "0": {
+            "a": 5200000,
+            "b": -1
+          },
+          "10": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/gobo_boomstick": {},
+        "/items/gobo_boots": {
+          "0": {
+            "a": 2550,
+            "b": -1
+          }
+        },
+        "/items/gobo_bracers": {
+          "0": {
+            "a": 2550,
+            "b": -1
+          }
+        },
+        "/items/gobo_chaps": {
+          "0": {
+            "a": 4500,
+            "b": -1
+          }
+        },
+        "/items/gobo_defender": {
+          "0": {
+            "a": 200000,
+            "b": -1
+          }
+        },
+        "/items/gobo_essence": {},
+        "/items/gobo_hide": {
+          "0": {
+            "a": 160,
+            "b": -1
+          }
+        },
+        "/items/gobo_hood": {
+          "0": {
+            "a": 3200,
+            "b": -1
+          }
+        },
+        "/items/gobo_leather": {},
+        "/items/gobo_rag": {
+          "0": {
+            "a": 10500,
+            "b": -1
+          }
+        },
+        "/items/gobo_shooter": {
+          "0": {
+            "a": 20500,
+            "b": -1
+          },
+          "5": {
+            "a": 320000000,
+            "b": -1
+          }
+        },
+        "/items/gobo_slasher": {
+          "0": {
+            "a": 20500,
+            "b": -1
+          }
+        },
+        "/items/gobo_smasher": {
+          "0": {
+            "a": 20500,
+            "b": -1
+          }
+        },
+        "/items/gobo_stabber": {},
+        "/items/gobo_tunic": {
+          "0": {
+            "a": 9800,
+            "b": -1
+          }
+        },
+        "/items/goggles": {
+          "0": {
+            "a": 20000,
+            "b": -1
+          }
+        },
+        "/items/golem_essence": {
+          "0": {
+            "a": 115,
+            "b": -1
+          }
+        },
+        "/items/gourmet_tea": {},
+        "/items/granite_bludgeon": {},
+        "/items/green_key_fragment": {
+          "0": {
+            "a": 50000,
+            "b": -1
+          }
+        },
+        "/items/green_tea_leaf": {
+          "0": {
+            "a": 9800000000,
+            "b": -1
+          }
+        },
+        "/items/griffin_bulwark": {
+          "0": {
+            "a": 80000000000,
+            "b": -1
+          }
+        },
+        "/items/griffin_chaps": {
+          "0": {
+            "a": 330000,
+            "b": -1
+          }
+        },
+        "/items/griffin_leather": {},
+        "/items/griffin_talon": {
+          "0": {
+            "a": 10000000000,
+            "b": -1
+          }
+        },
+        "/items/griffin_tunic": {
+          "0": {
+            "a": 410000,
+            "b": -1
+          }
+        },
+        "/items/grizzly_bear_fluff": {},
+        "/items/grizzly_bear_shoes": {},
+        "/items/gummy": {
+          "0": {
+            "a": 10,
+            "b": -1
+          }
+        },
+        "/items/guzzling_energy": {
+          "0": {
+            "a": 400000,
+            "b": -1
+          }
+        },
+        "/items/guzzling_pouch": {
+          "0": {
+            "a": 6200000,
+            "b": -1
+          },
+          "10": {
+            "a": 49000000000,
+            "b": -1
+          }
+        },
+        "/items/heal": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/holy_alembic": {},
+        "/items/holy_boots": {
+          "0": {
+            "a": 1100000,
+            "b": -1
+          }
+        },
+        "/items/holy_brush": {},
+        "/items/holy_buckler": {
+          "0": {
+            "a": 100000000000,
+            "b": -1
+          },
+          "10": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/holy_bulwark": {
+          "0": {
+            "a": 220000,
+            "b": -1
+          }
+        },
+        "/items/holy_cheese": {
+          "0": {
+            "a": 310,
+            "b": -1
+          }
+        },
+        "/items/holy_chisel": {
+          "0": {
+            "a": 64000,
+            "b": -1
+          }
+        },
+        "/items/holy_enhancer": {
+          "0": {
+            "a": 3700000000,
+            "b": -1
+          },
+          "10": {
+            "a": 49000000000,
+            "b": -1
+          },
+          "5": {
+            "a": 7600000000,
+            "b": -1
+          },
+          "7": {
+            "a": 30000000000,
+            "b": -1
+          }
+        },
+        "/items/holy_gauntlets": {
+          "0": {
+            "a": 140000,
+            "b": -1
+          },
+          "10": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/holy_hammer": {},
+        "/items/holy_hatchet": {},
+        "/items/holy_helmet": {
+          "0": {
+            "a": 44000,
+            "b": -1
+          },
+          "10": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/holy_mace": {
+          "0": {
+            "a": 80000,
+            "b": -1
+          }
+        },
+        "/items/holy_milk": {
+          "0": {
+            "a": 270,
+            "b": -1
+          }
+        },
+        "/items/holy_needle": {},
+        "/items/holy_plate_body": {
+          "0": {
+            "a": 140000,
+            "b": -1
+          },
+          "10": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/holy_plate_legs": {
+          "0": {
+            "a": 240000,
+            "b": -1
+          }
+        },
+        "/items/holy_pot": {
+          "0": {
+            "a": 15000000,
+            "b": -1
+          }
+        },
+        "/items/holy_shears": {},
+        "/items/holy_spatula": {},
+        "/items/holy_spear": {
+          "0": {
+            "a": 82000,
+            "b": -1
+          }
+        },
+        "/items/holy_sword": {
+          "0": {
+            "a": 160000,
+            "b": -1
+          },
+          "10": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/ice_spear": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/icy_cloth": {},
+        "/items/icy_robe_bottoms": {},
+        "/items/icy_robe_top": {},
+        "/items/impale": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/infernal_battlestaff": {
+          "0": {
+            "a": 400000,
+            "b": -1
+          },
+          "15": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/infernal_ember": {
+          "0": {
+            "a": 10500,
+            "b": -1
+          }
+        },
+        "/items/insanity": {
+          "0": {
+            "a": 20000,
+            "b": -1
+          }
+        },
+        "/items/intelligence_coffee": {},
+        "/items/invincible": {
+          "0": {
+            "a": 20000,
+            "b": -1
+          }
+        },
+        "/items/jackalope_antler": {},
+        "/items/jackalope_staff": {},
+        "/items/jade": {
+          "0": {
+            "a": 1000000,
+            "b": -1
+          }
+        },
+        "/items/jungle_essence": {
+          "0": {
+            "a": 10000000000,
+            "b": -1
+          }
+        },
+        "/items/knights_aegis": {
+          "0": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/knights_ingot": {},
+        "/items/kraken_chaps": {
+          "0": {
+            "a": 4000000,
+            "b": -1
+          }
+        },
+        "/items/kraken_fang": {
+          "0": {
+            "a": 760000000,
+            "b": -1
+          }
+        },
+        "/items/kraken_leather": {},
+        "/items/kraken_tunic": {
+          "0": {
+            "a": 4600000,
+            "b": -1
+          }
+        },
+        "/items/large_pouch": {
+          "0": {
+            "a": 340000,
+            "b": -1
+          }
+        },
+        "/items/liberica_coffee_bean": {
+          "0": {
+            "a": 6000000,
+            "b": -1
+          }
+        },
+        "/items/life_drain": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/linen_boots": {
+          "0": {
+            "a": 9200,
+            "b": -1
+          }
+        },
+        "/items/linen_fabric": {},
+        "/items/linen_gloves": {
+          "0": {
+            "a": 4600,
+            "b": -1
+          }
+        },
+        "/items/linen_hat": {
+          "0": {
+            "a": 740,
+            "b": -1
+          }
+        },
+        "/items/linen_robe_bottoms": {
+          "0": {
+            "a": 1100,
+            "b": -1
+          }
+        },
+        "/items/linen_robe_top": {
+          "0": {
+            "a": 1250,
+            "b": -1
+          }
+        },
+        "/items/living_granite": {},
+        "/items/log": {
+          "0": {
+            "a": 11,
+            "b": -1
+          }
+        },
+        "/items/lucky_coffee": {},
+        "/items/lumber": {
+          "0": {
+            "a": 2500000000,
+            "b": -1
+          }
+        },
+        "/items/lumberjacks_bottoms": {},
+        "/items/lumberjacks_top": {},
+        "/items/luna_robe_bottoms": {},
+        "/items/luna_robe_top": {},
+        "/items/luna_wing": {},
+        "/items/maelstrom_plate_body": {
+          "0": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/maelstrom_plate_legs": {
+          "0": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/maelstrom_plating": {
+          "0": {
+            "a": 40000,
+            "b": -1
+          }
+        },
+        "/items/magic_coffee": {
+          "0": {
+            "a": 41,
+            "b": -1
+          }
+        },
+        "/items/magicians_cloth": {},
+        "/items/magicians_hat": {
+          "0": {
+            "a": 7000000,
+            "b": -1
+          }
+        },
+        "/items/magnet": {},
+        "/items/magnetic_gloves": {
+          "10": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/magnifying_glass": {},
+        "/items/maim": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/mana_spring": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/manticore_shield": {
+          "0": {
+            "a": 800000,
+            "b": -1
+          }
+        },
+        "/items/manticore_sting": {
+          "0": {
+            "a": 320000,
+            "b": -1
+          }
+        },
+        "/items/marine_chaps": {},
+        "/items/marine_scale": {
+          "0": {
+            "a": 9800000000,
+            "b": -1
+          }
+        },
+        "/items/marine_tunic": {
+          "0": {
+            "a": 62000,
+            "b": -1
+          }
+        },
+        "/items/marksman_bracers": {
+          "0": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/marksman_brooch": {},
+        "/items/marsberry": {},
+        "/items/marsberry_cake": {
+          "0": {
+            "a": 100,
+            "b": -1
+          }
+        },
+        "/items/marsberry_donut": {
+          "0": {
+            "a": 100,
+            "b": -1
+          }
+        },
+        "/items/medium_pouch": {
+          "0": {
+            "a": 285000,
+            "b": -1
+          }
+        },
+        "/items/milk": {
+          "0": {
+            "a": 4,
+            "b": -1
+          }
+        },
+        "/items/milking_essence": {
+          "0": {
+            "a": 245000,
+            "b": -1
+          }
+        },
+        "/items/milking_tea": {
+          "0": {
+            "a": 5000000,
+            "b": -1
+          }
+        },
+        "/items/minor_heal": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/mirror_of_protection": {
+          "0": {
+            "a": 200000,
+            "b": -1
+          }
+        },
+        "/items/mooberry": {
+          "0": {
+            "a": 10000000000,
+            "b": -1
+          }
+        },
+        "/items/mooberry_cake": {
+          "0": {
+            "a": 80,
+            "b": -1
+          }
+        },
+        "/items/mooberry_donut": {
+          "0": {
+            "a": 80,
+            "b": -1
+          }
+        },
+        "/items/moolong_tea_leaf": {
+          "0": {
+            "a": 5000000000,
+            "b": -1
+          }
+        },
+        "/items/moonstone": {
+          "0": {
+            "a": 580000000,
+            "b": -1
+          }
+        },
+        "/items/natures_veil": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/necklace_of_efficiency": {},
+        "/items/necklace_of_speed": {},
+        "/items/necklace_of_wisdom": {
+          "0": {
+            "a": 62000,
+            "b": -1
+          }
+        },
+        "/items/orange": {
+          "0": {
+            "a": 47000000,
+            "b": -1
+          }
+        },
+        "/items/orange_gummy": {
+          "0": {
+            "a": 21,
+            "b": -1
+          }
+        },
+        "/items/orange_key_fragment": {
+          "0": {
+            "a": 100000,
+            "b": -1
+          }
+        },
+        "/items/orange_yogurt": {
+          "0": {
+            "a": 21,
+            "b": -1
+          }
+        },
+        "/items/panda_fluff": {},
+        "/items/panda_gloves": {},
+        "/items/peach": {},
+        "/items/peach_gummy": {
+          "0": {
+            "a": 40,
+            "b": -1
+          }
+        },
+        "/items/peach_yogurt": {
+          "0": {
+            "a": 10000000000,
+            "b": -1
+          }
+        },
+        "/items/pearl": {
+          "0": {
+            "a": 1200000,
+            "b": -1
+          }
+        },
+        "/items/penetrating_shot": {},
+        "/items/penetrating_strike": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/pestilent_shot": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/philosophers_earrings": {
+          "0": {
+            "a": 23500000,
+            "b": -1
+          },
+          "10": {
+            "a": 100000000000,
+            "b": -1
+          },
+          "5": {
+            "a": 98000000000,
+            "b": -1
+          },
+          "7": {
+            "a": 56000000000,
+            "b": -1
+          },
+          "9": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/philosophers_necklace": {
+          "0": {
+            "a": 12500000,
+            "b": -1
+          },
+          "10": {
+            "a": 96000000000,
+            "b": -1
+          },
+          "5": {
+            "a": 10000000000,
+            "b": -1
+          },
+          "6": {
+            "a": 30000000000,
+            "b": -1
+          },
+          "8": {
+            "a": 3000000000,
+            "b": -1
+          },
+          "9": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/philosophers_ring": {
+          "0": {
+            "a": 12500000,
+            "b": -1
+          },
+          "5": {
+            "a": 50000000000,
+            "b": -1
+          },
+          "9": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/philosophers_stone": {
+          "0": {
+            "a": 14500000,
+            "b": -1
+          }
+        },
+        "/items/pincer_gloves": {
+          "10": {
+            "a": 12000000000,
+            "b": -1
+          }
+        },
+        "/items/pirate_chest_key": {
+          "0": {
+            "a": 9400000,
+            "b": -1
+          }
+        },
+        "/items/pirate_entry_key": {
+          "0": {
+            "a": 480000000,
+            "b": -1
+          }
+        },
+        "/items/pirate_essence": {
+          "0": {
+            "a": 300000000,
+            "b": -1
+          }
+        },
+        "/items/plum": {
+          "0": {
+            "a": 2500000,
+            "b": -1
+          }
+        },
+        "/items/plum_gummy": {
+          "0": {
+            "a": 31,
+            "b": -1
+          }
+        },
+        "/items/plum_yogurt": {
+          "0": {
+            "a": 10000000000,
+            "b": -1
+          }
+        },
+        "/items/poke": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/polar_bear_fluff": {},
+        "/items/polar_bear_shoes": {},
+        "/items/power_coffee": {},
+        "/items/precision": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/prime_catalyst": {
+          "0": {
+            "a": 9000000000,
+            "b": -1
+          }
+        },
+        "/items/processing_tea": {
+          "0": {
+            "a": 60,
+            "b": -1
+          }
+        },
+        "/items/provoke": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/puncture": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/purple_key_fragment": {
+          "0": {
+            "a": 50000,
+            "b": -1
+          }
+        },
+        "/items/purpleheart_bow": {
+          "0": {
+            "a": 8800,
+            "b": -1
+          }
+        },
+        "/items/purpleheart_crossbow": {
+          "0": {
+            "a": 6600,
+            "b": -1
+          }
+        },
+        "/items/purpleheart_fire_staff": {
+          "0": {
+            "a": 6600,
+            "b": -1
+          }
+        },
+        "/items/purpleheart_log": {
+          "0": {
+            "a": 66,
+            "b": -1
+          }
+        },
+        "/items/purpleheart_lumber": {
+          "0": {
+            "a": 1500000,
+            "b": -1
+          }
+        },
+        "/items/purpleheart_nature_staff": {
+          "0": {
+            "a": 6600,
+            "b": -1
+          }
+        },
+        "/items/purpleheart_shield": {},
+        "/items/purpleheart_water_staff": {
+          "0": {
+            "a": 6600,
+            "b": -1
+          }
+        },
+        "/items/quick_aid": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/quick_shot": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/radiant_boots": {
+          "0": {
+            "a": 180000,
+            "b": -1
+          }
+        },
+        "/items/radiant_fabric": {
+          "0": {
+            "a": 245,
+            "b": -1
+          }
+        },
+        "/items/radiant_fiber": {
+          "0": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/radiant_gloves": {
+          "0": {
+            "a": 180000,
+            "b": -1
+          }
+        },
+        "/items/radiant_hat": {
+          "0": {
+            "a": 52000,
+            "b": -1
+          }
+        },
+        "/items/radiant_robe_bottoms": {
+          "0": {
+            "a": 40000,
+            "b": -1
+          }
+        },
+        "/items/radiant_robe_top": {
+          "0": {
+            "a": 90000,
+            "b": -1
+          }
+        },
+        "/items/rain_of_arrows": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/rainbow_alembic": {
+          "0": {
+            "a": 25500,
+            "b": -1
+          }
+        },
+        "/items/rainbow_boots": {
+          "0": {
+            "a": 115000,
+            "b": -1
+          }
+        },
+        "/items/rainbow_brush": {
+          "0": {
+            "a": 25500,
+            "b": -1
+          }
+        },
+        "/items/rainbow_buckler": {},
+        "/items/rainbow_bulwark": {
+          "0": {
+            "a": 86000,
+            "b": -1
+          }
+        },
+        "/items/rainbow_cheese": {
+          "0": {
+            "a": 200,
+            "b": -1
+          }
+        },
+        "/items/rainbow_chisel": {},
+        "/items/rainbow_enhancer": {
+          "0": {
+            "a": 25500,
+            "b": -1
+          },
+          "10": {
+            "a": 12500000000,
+            "b": -1
+          },
+          "7": {
+            "a": 25000000000,
+            "b": -1
+          }
+        },
+        "/items/rainbow_gauntlets": {
+          "0": {
+            "a": 29000,
+            "b": -1
+          }
+        },
+        "/items/rainbow_hammer": {},
+        "/items/rainbow_hatchet": {},
+        "/items/rainbow_helmet": {
+          "0": {
+            "a": 18000,
+            "b": -1
+          }
+        },
+        "/items/rainbow_mace": {
+          "0": {
+            "a": 32000,
+            "b": -1
+          }
+        },
+        "/items/rainbow_milk": {
+          "0": {
+            "a": 47000,
+            "b": -1
+          }
+        },
+        "/items/rainbow_needle": {
+          "0": {
+            "a": 25500,
+            "b": -1
+          }
+        },
+        "/items/rainbow_plate_body": {
+          "0": {
+            "a": 28500,
+            "b": -1
+          }
+        },
+        "/items/rainbow_plate_legs": {
+          "0": {
+            "a": 25500,
+            "b": -1
+          }
+        },
+        "/items/rainbow_pot": {},
+        "/items/rainbow_shears": {},
+        "/items/rainbow_spatula": {},
+        "/items/rainbow_spear": {
+          "0": {
+            "a": 64000,
+            "b": -1
+          }
+        },
+        "/items/rainbow_sword": {
+          "0": {
+            "a": 64000,
+            "b": -1
+          }
+        },
+        "/items/ranged_coffee": {},
+        "/items/ranger_necklace": {},
+        "/items/red_culinary_hat": {
+          "0": {
+            "a": 100000000000,
+            "b": -1
+          },
+          "10": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/red_panda_fluff": {},
+        "/items/red_tea_leaf": {
+          "0": {
+            "a": 10000000000,
+            "b": -1
+          }
+        },
+        "/items/redwood_bow": {
+          "0": {
+            "a": 43000,
+            "b": -1
+          }
+        },
+        "/items/redwood_crossbow": {
+          "0": {
+            "a": 32000,
+            "b": -1
+          }
+        },
+        "/items/redwood_fire_staff": {
+          "0": {
+            "a": 32000,
+            "b": -1
+          }
+        },
+        "/items/redwood_log": {
+          "0": {
+            "a": 240,
+            "b": -1
+          }
+        },
+        "/items/redwood_lumber": {
+          "0": {
+            "a": 98000000000,
+            "b": -1
+          }
+        },
+        "/items/redwood_nature_staff": {
+          "0": {
+            "a": 32000,
+            "b": -1
+          }
+        },
+        "/items/redwood_shield": {},
+        "/items/redwood_water_staff": {
+          "0": {
+            "a": 32000,
+            "b": -1
+          }
+        },
+        "/items/regal_jewel": {
+          "0": {
+            "a": 10000000000,
+            "b": -1
+          }
+        },
+        "/items/regal_sword": {
+          "0": {
+            "a": 5200000,
+            "b": -1
+          },
+          "10": {
+            "a": 100000000000,
+            "b": -1
+          },
+          "5": {
+            "a": 70000000000,
+            "b": -1
+          },
+          "7": {
+            "a": 100000000000,
+            "b": -1
+          },
+          "8": {
+            "a": 10000000000,
+            "b": -1
+          }
+        },
+        "/items/rejuvenate": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/reptile_boots": {
+          "0": {
+            "a": 4600,
+            "b": -1
+          }
+        },
+        "/items/reptile_bracers": {
+          "0": {
+            "a": 4600,
+            "b": -1
+          }
+        },
+        "/items/reptile_chaps": {
+          "0": {
+            "a": 4200,
+            "b": -1
+          }
+        },
+        "/items/reptile_hide": {
+          "0": {
+            "a": 8800000000,
+            "b": -1
+          }
+        },
+        "/items/reptile_hood": {
+          "0": {
+            "a": 1400,
+            "b": -1
+          }
+        },
+        "/items/reptile_leather": {},
+        "/items/reptile_tunic": {
+          "0": {
+            "a": 4800,
+            "b": -1
+          }
+        },
+        "/items/revenant_anima": {},
+        "/items/revenant_chaps": {
+          "0": {
+            "a": 330000,
+            "b": -1
+          }
+        },
+        "/items/revenant_tunic": {
+          "0": {
+            "a": 410000,
+            "b": -1
+          }
+        },
+        "/items/revive": {
+          "0": {
+            "a": 20000,
+            "b": -1
+          }
+        },
+        "/items/ring_of_armor": {},
+        "/items/ring_of_critical_strike": {
+          "0": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/ring_of_essence_find": {},
+        "/items/ring_of_gathering": {
+          "3": {
+            "a": 10000,
+            "b": -1
+          }
+        },
+        "/items/ring_of_rare_find": {},
+        "/items/ring_of_regeneration": {
+          "10": {
+            "a": 12500000000,
+            "b": -1
+          }
+        },
+        "/items/ring_of_resistance": {},
+        "/items/rippling_trident": {
+          "0": {
+            "a": 5000000,
+            "b": -1
+          }
+        },
+        "/items/robusta_coffee_bean": {},
+        "/items/rough_boots": {
+          "0": {
+            "a": 64,
+            "b": -1
+          },
+          "1": {
+            "a": 66,
+            "b": -1
+          }
+        },
+        "/items/rough_bracers": {
+          "0": {
+            "a": 66,
+            "b": -1
+          }
+        },
+        "/items/rough_chaps": {
+          "0": {
+            "a": 1800,
+            "b": -1
+          }
+        },
+        "/items/rough_hide": {
+          "0": {
+            "a": 6400,
+            "b": -1
+          }
+        },
+        "/items/rough_hood": {},
+        "/items/rough_leather": {
+          "0": {
+            "a": 100000,
+            "b": -1
+          }
+        },
+        "/items/rough_tunic": {
+          "0": {
+            "a": 520,
+            "b": -1
+          }
+        },
+        "/items/royal_cloth": {
+          "0": {
+            "a": 10000000,
+            "b": -1
+          }
+        },
+        "/items/royal_fire_robe_bottoms": {
+          "0": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/royal_fire_robe_top": {
+          "0": {
+            "a": 100000000000,
+            "b": -1
+          },
+          "8": {
+            "a": 560000000,
+            "b": -1
+          }
+        },
+        "/items/royal_nature_robe_bottoms": {
+          "0": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/royal_nature_robe_top": {
+          "0": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/royal_water_robe_bottoms": {
+          "0": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/royal_water_robe_top": {
+          "0": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/scratch": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/shard_of_protection": {
+          "0": {
+            "a": 1600,
+            "b": -1
+          }
+        },
+        "/items/shield_bash": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/shoebill_feather": {},
+        "/items/shoebill_shoes": {
+          "10": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/sighted_bracers": {
+          "10": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/silencing_shot": {
+          "0": {
+            "a": 1950,
+            "b": -1
+          }
+        },
+        "/items/silk_boots": {
+          "0": {
+            "a": 8200,
+            "b": -1
+          }
+        },
+        "/items/silk_fabric": {
+          "0": {
+            "a": 82,
+            "b": -1
+          }
+        },
+        "/items/silk_gloves": {
+          "0": {
+            "a": 64000,
+            "b": -1
+          },
+          "3": {
+            "a": 100000,
+            "b": -1
+          }
+        },
+        "/items/silk_hat": {
+          "0": {
+            "a": 10000,
+            "b": -1
+          }
+        },
+        "/items/silk_robe_bottoms": {
+          "0": {
+            "a": 14500,
+            "b": -1
+          }
+        },
+        "/items/silk_robe_top": {
+          "0": {
+            "a": 16500,
+            "b": -1
+          }
+        },
+        "/items/sinister_chest_key": {
+          "0": {
+            "a": 600000,
+            "b": -1
+          }
+        },
+        "/items/sinister_entry_key": {
+          "0": {
+            "a": 58000,
+            "b": -1
+          }
+        },
+        "/items/sinister_essence": {
+          "0": {
+            "a": 10000000000,
+            "b": -1
+          }
+        },
+        "/items/smack": {
+          "0": {
+            "a": 1950,
+            "b": -1
+          }
+        },
+        "/items/small_pouch": {
+          "0": {
+            "a": 16000,
+            "b": -1
+          }
+        },
+        "/items/smoke_burst": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/snail_shell": {
+          "0": {
+            "a": 9800000000,
+            "b": -1
+          }
+        },
+        "/items/snail_shell_helmet": {
+          "0": {
+            "a": 6200,
+            "b": -1
+          }
+        },
+        "/items/snake_fang": {
+          "0": {
+            "a": 9800000000,
+            "b": -1
+          }
+        },
+        "/items/snake_fang_dirk": {
+          "0": {
+            "a": 2050,
+            "b": -1
+          }
+        },
+        "/items/sorcerer_boots": {
+          "0": {
+            "a": 800000000,
+            "b": -1
+          }
+        },
+        "/items/sorcerer_essence": {
+          "0": {
+            "a": 37,
+            "b": -1
+          }
+        },
+        "/items/sorcerers_sole": {},
+        "/items/soul_fragment": {
+          "0": {
+            "a": 100000000,
+            "b": -1
+          }
+        },
+        "/items/soul_hunter_crossbow": {
+          "0": {
+            "a": 410000,
+            "b": -1
+          }
+        },
+        "/items/spaceberry": {},
+        "/items/spaceberry_cake": {
+          "0": {
+            "a": 78,
+            "b": -1
+          }
+        },
+        "/items/spaceberry_donut": {
+          "0": {
+            "a": 150,
+            "b": -1
+          }
+        },
+        "/items/spacia_coffee_bean": {
+          "0": {
+            "a": 82,
+            "b": -1
+          }
+        },
+        "/items/speed_aura": {
+          "0": {
+            "a": 20000,
+            "b": -1
+          }
+        },
+        "/items/spike_shell": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/spiked_bulwark": {},
+        "/items/stalactite_shard": {
+          "0": {
+            "a": 10000000000,
+            "b": -1
+          }
+        },
+        "/items/stalactite_spear": {
+          "0": {
+            "a": 500000,
+            "b": -1
+          }
+        },
+        "/items/stamina_coffee": {},
+        "/items/star_fragment": {
+          "0": {
+            "a": 13500,
+            "b": -1
+          }
+        },
+        "/items/star_fruit": {
+          "0": {
+            "a": 9200000000,
+            "b": -1
+          }
+        },
+        "/items/star_fruit_gummy": {
+          "0": {
+            "a": 390,
+            "b": -1
+          }
+        },
+        "/items/star_fruit_yogurt": {
+          "0": {
+            "a": 150,
+            "b": -1
+          }
+        },
+        "/items/steady_shot": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/stone_key_fragment": {
+          "0": {
+            "a": 160000,
+            "b": -1
+          }
+        },
+        "/items/strawberry": {
+          "0": {
+            "a": 7,
+            "b": -1
+          }
+        },
+        "/items/strawberry_cake": {
+          "0": {
+            "a": 60,
+            "b": -1
+          }
+        },
+        "/items/strawberry_donut": {
+          "0": {
+            "a": 60,
+            "b": -1
+          }
+        },
+        "/items/stunning_blow": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/sugar": {
+          "0": {
+            "a": 46,
+            "b": -1
+          }
+        },
+        "/items/sundering_crossbow": {
+          "0": {
+            "a": 3800000000,
+            "b": -1
+          }
+        },
+        "/items/sundering_jewel": {},
+        "/items/sunstone": {
+          "0": {
+            "a": 500000000,
+            "b": -1
+          }
+        },
+        "/items/super_alchemy_tea": {
+          "0": {
+            "a": 82,
+            "b": -1
+          }
+        },
+        "/items/super_attack_coffee": {
+          "0": {
+            "a": 82,
+            "b": -1
+          }
+        },
+        "/items/super_brewing_tea": {},
+        "/items/super_cheesesmithing_tea": {
+          "0": {
+            "a": 10000000000,
+            "b": -1
+          }
+        },
+        "/items/super_cooking_tea": {},
+        "/items/super_crafting_tea": {},
+        "/items/super_defense_coffee": {},
+        "/items/super_enhancing_tea": {},
+        "/items/super_foraging_tea": {},
+        "/items/super_intelligence_coffee": {
+          "0": {
+            "a": 60,
+            "b": -1
+          }
+        },
+        "/items/super_magic_coffee": {
+          "0": {
+            "a": 125,
+            "b": -1
+          }
+        },
+        "/items/super_milking_tea": {},
+        "/items/super_power_coffee": {
+          "0": {
+            "a": 125,
+            "b": -1
+          }
+        },
+        "/items/super_ranged_coffee": {
+          "0": {
+            "a": 7600,
+            "b": -1
+          }
+        },
+        "/items/super_stamina_coffee": {},
+        "/items/super_tailoring_tea": {},
+        "/items/super_woodcutting_tea": {},
+        "/items/swamp_essence": {
+          "0": {
+            "a": 240000000,
+            "b": -1
+          }
+        },
+        "/items/sweep": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/swiftness_coffee": {},
+        "/items/sylvan_aura": {
+          "0": {
+            "a": 20000,
+            "b": -1
+          }
+        },
+        "/items/tailoring_essence": {},
+        "/items/tailoring_tea": {
+          "0": {
+            "a": 160000,
+            "b": -1
+          }
+        },
+        "/items/tailors_bottoms": {},
+        "/items/tailors_top": {
+          "0": {
+            "a": 7000000,
+            "b": -1
+          }
+        },
+        "/items/taunt": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/thread_of_expertise": {
+          "0": {
+            "a": 150000,
+            "b": -1
+          }
+        },
+        "/items/tome_of_healing": {},
+        "/items/tome_of_the_elements": {},
+        "/items/toughness": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/toxic_pollen": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/treant_bark": {},
+        "/items/treant_shield": {},
+        "/items/turtle_shell": {},
+        "/items/turtle_shell_body": {
+          "0": {
+            "a": 9200,
+            "b": -1
+          }
+        },
+        "/items/turtle_shell_legs": {},
+        "/items/twilight_essence": {
+          "0": {
+            "a": 10000000000,
+            "b": -1
+          }
+        },
+        "/items/ultra_alchemy_tea": {
+          "0": {
+            "a": 360,
+            "b": -1
+          }
+        },
+        "/items/ultra_attack_coffee": {
+          "0": {
+            "a": 360,
+            "b": -1
+          }
+        },
+        "/items/ultra_brewing_tea": {
+          "0": {
+            "a": 360,
+            "b": -1
+          }
+        },
+        "/items/ultra_cheesesmithing_tea": {
+          "0": {
+            "a": 420,
+            "b": -1
+          }
+        },
+        "/items/ultra_cooking_tea": {
+          "0": {
+            "a": 185,
+            "b": -1
+          }
+        },
+        "/items/ultra_crafting_tea": {
+          "0": {
+            "a": 420,
+            "b": -1
+          }
+        },
+        "/items/ultra_defense_coffee": {
+          "0": {
+            "a": 360,
+            "b": -1
+          }
+        },
+        "/items/ultra_enhancing_tea": {
+          "0": {
+            "a": 360,
+            "b": -1
+          }
+        },
+        "/items/ultra_foraging_tea": {
+          "0": {
+            "a": 300,
+            "b": -1
+          }
+        },
+        "/items/ultra_intelligence_coffee": {
+          "0": {
+            "a": 300,
+            "b": -1
+          }
+        },
+        "/items/ultra_magic_coffee": {
+          "0": {
+            "a": 420,
+            "b": -1
+          }
+        },
+        "/items/ultra_milking_tea": {
+          "0": {
+            "a": 155,
+            "b": -1
+          }
+        },
+        "/items/ultra_power_coffee": {
+          "0": {
+            "a": 420,
+            "b": -1
+          }
+        },
+        "/items/ultra_ranged_coffee": {
+          "0": {
+            "a": 420,
+            "b": -1
+          }
+        },
+        "/items/ultra_stamina_coffee": {
+          "0": {
+            "a": 300,
+            "b": -1
+          }
+        },
+        "/items/ultra_tailoring_tea": {
+          "0": {
+            "a": 215,
+            "b": -1
+          }
+        },
+        "/items/ultra_woodcutting_tea": {
+          "0": {
+            "a": 300,
+            "b": -1
+          }
+        },
+        "/items/umbral_boots": {
+          "0": {
+            "a": 180000,
+            "b": -1
+          }
+        },
+        "/items/umbral_bracers": {
+          "0": {
+            "a": 23000,
+            "b": -1
+          }
+        },
+        "/items/umbral_chaps": {
+          "0": {
+            "a": 155000,
+            "b": -1
+          }
+        },
+        "/items/umbral_hide": {
+          "0": {
+            "a": 490000000,
+            "b": -1
+          }
+        },
+        "/items/umbral_hood": {
+          "0": {
+            "a": 28000,
+            "b": -1
+          }
+        },
+        "/items/umbral_leather": {
+          "0": {
+            "a": 240,
+            "b": -1
+          }
+        },
+        "/items/umbral_tunic": {
+          "0": {
+            "a": 180000,
+            "b": -1
+          }
+        },
+        "/items/vampire_fang": {},
+        "/items/vampire_fang_dirk": {
+          "0": {
+            "a": 1000000,
+            "b": -1
+          }
+        },
+        "/items/vampiric_bow": {
+          "0": {
+            "a": 410000,
+            "b": -1
+          }
+        },
+        "/items/vampirism": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/verdant_alembic": {
+          "0": {
+            "a": 580,
+            "b": -1
+          }
+        },
+        "/items/verdant_boots": {
+          "0": {
+            "a": 5000,
+            "b": -1
+          }
+        },
+        "/items/verdant_brush": {
+          "0": {
+            "a": 1700,
+            "b": -1
+          }
+        },
+        "/items/verdant_buckler": {},
+        "/items/verdant_bulwark": {
+          "0": {
+            "a": 960000000,
+            "b": -1
+          }
+        },
+        "/items/verdant_cheese": {
+          "0": {
+            "a": 32,
+            "b": -1
+          }
+        },
+        "/items/verdant_chisel": {},
+        "/items/verdant_enhancer": {},
+        "/items/verdant_gauntlets": {
+          "0": {
+            "a": 2500,
+            "b": -1
+          }
+        },
+        "/items/verdant_hammer": {},
+        "/items/verdant_hatchet": {},
+        "/items/verdant_helmet": {
+          "0": {
+            "a": 410,
+            "b": -1
+          }
+        },
+        "/items/verdant_mace": {
+          "0": {
+            "a": 720,
+            "b": -1
+          }
+        },
+        "/items/verdant_milk": {
+          "0": {
+            "a": 6,
+            "b": -1
+          }
+        },
+        "/items/verdant_needle": {},
+        "/items/verdant_plate_body": {
+          "0": {
+            "a": 1250,
+            "b": -1
+          }
+        },
+        "/items/verdant_plate_legs": {
+          "0": {
+            "a": 2200,
+            "b": -1
+          }
+        },
+        "/items/verdant_pot": {
+          "0": {
+            "a": 560,
+            "b": -1
+          }
+        },
+        "/items/verdant_shears": {},
+        "/items/verdant_spatula": {},
+        "/items/verdant_spear": {
+          "0": {
+            "a": 1400,
+            "b": -1
+          }
+        },
+        "/items/verdant_sword": {
+          "0": {
+            "a": 720,
+            "b": -1
+          }
+        },
+        "/items/vision_helmet": {
+          "0": {
+            "a": 20500,
+            "b": -1
+          },
+          "10": {
+            "a": 10000000000,
+            "b": -1
+          }
+        },
+        "/items/vision_shield": {},
+        "/items/watchful_relic": {
+          "0": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/water_strike": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/werewolf_claw": {},
+        "/items/werewolf_slasher": {
+          "10": {
+            "a": 100000000000,
+            "b": -1
+          }
+        },
+        "/items/wheat": {
+          "0": {
+            "a": 96000,
+            "b": -1
+          }
+        },
+        "/items/white_key_fragment": {
+          "0": {
+            "a": 100000,
+            "b": -1
+          }
+        },
+        "/items/wisdom_coffee": {
+          "0": {
+            "a": 41,
+            "b": -1
+          }
+        },
+        "/items/wisdom_tea": {},
+        "/items/wizard_necklace": {},
+        "/items/woodcutting_essence": {
+          "0": {
+            "a": 37000000,
+            "b": -1
+          }
+        },
+        "/items/woodcutting_tea": {},
+        "/items/wooden_bow": {},
+        "/items/wooden_crossbow": {},
+        "/items/wooden_fire_staff": {
+          "0": {
+            "a": 2000,
+            "b": -1
+          }
+        },
+        "/items/wooden_nature_staff": {
+          "0": {
+            "a": 600,
+            "b": -1
+          }
+        },
+        "/items/wooden_shield": {},
+        "/items/wooden_water_staff": {
+          "0": {
+            "a": 19000,
+            "b": -1
+          }
+        },
+        "/items/yogurt": {
+          "0": {
+            "a": 1250000000,
+            "b": -1
+          }
+        }
+      }
     }
   ],
   "median": {
@@ -14008,7 +14088,7 @@
     },
     "/items/alchemy_essence": {
       "0": {
-        "a": 118000.0,
+        "a": 94000.0,
         "b": -1
       }
     },
@@ -14194,8 +14274,8 @@
     },
     "/items/bag_of_10_cowbells": {
       "0": {
-        "a": 141000.0,
-        "b": 66000.0
+        "a": 132750.0,
+        "b": 64000.0
       }
     },
     "/items/bamboo_boots": {
@@ -14236,7 +14316,7 @@
     },
     "/items/beast_boots": {
       "0": {
-        "a": 8000.0,
+        "a": 22000.0,
         "b": -1
       }
     },
@@ -14398,7 +14478,13 @@
     },
     "/items/branch_of_insight": {
       "0": {
-        "a": 162500.0,
+        "a": 150000.0,
+        "b": -1
+      }
+    },
+    "/items/brewing_essence": {
+      "0": {
+        "a": 50.0,
         "b": -1
       }
     },
@@ -14518,7 +14604,7 @@
     },
     "/items/butter_of_proficiency": {
       "0": {
-        "a": 162500.0,
+        "a": 150000.0,
         "b": -1
       }
     },
@@ -14542,7 +14628,7 @@
     },
     "/items/cedar_log": {
       "0": {
-        "a": 53.0,
+        "a": 44.0,
         "b": -1
       }
     },
@@ -14580,24 +14666,16 @@
         "b": -1
       },
       "10": {
-        "a": 48250000000.0,
+        "a": 48500000000.0,
         "b": -1
       },
       "11": {
         "a": 50000000000.0,
         "b": -1
       },
-      "13": {
-        "a": 100000000000.0,
+      "12": {
+        "a": 50000000000.0,
         "b": -1
-      },
-      "18": {
-        "a": -1,
-        "b": 100000000000.0
-      },
-      "19": {
-        "a": -1,
-        "b": 100000000000.0
       },
       "20": {
         "a": -1,
@@ -14612,11 +14690,23 @@
         "b": -1
       },
       "9": {
-        "a": 98000000000.0,
+        "a": 83500000000.0,
         "b": -1
       },
-      "12": {
-        "a": 10000000000.0,
+      "13": {
+        "a": 100000000000.0,
+        "b": -1
+      },
+      "14": {
+        "a": 100000000000.0,
+        "b": -1
+      },
+      "7": {
+        "a": 30000000000.0,
+        "b": -1
+      },
+      "8": {
+        "a": 35000000000.0,
         "b": -1
       }
     },
@@ -14628,7 +14718,7 @@
     },
     "/items/channeling_coffee": {
       "0": {
-        "a": 130.0,
+        "a": 120.0,
         "b": -1
       }
     },
@@ -14660,13 +14750,13 @@
     },
     "/items/cheese_brush": {
       "0": {
-        "a": 48000000000.0,
+        "a": 47750000000.0,
         "b": -1
       }
     },
     "/items/cheese_buckler": {
       "0": {
-        "a": 24000000000.0,
+        "a": 23875000000.0,
         "b": -1
       },
       "1": {
@@ -14728,12 +14818,6 @@
         "b": -1
       }
     },
-    "/items/cheese_shears": {
-      "0": {
-        "a": 10000000000.0,
-        "b": -1
-      }
-    },
     "/items/cheese_spear": {
       "0": {
         "a": 150.0,
@@ -14750,6 +14834,12 @@
       "0": {
         "a": 10000000000.0,
         "b": -1
+      }
+    },
+    "/items/chefs_bottoms": {
+      "0": {
+        "a": -1,
+        "b": 100000000000.0
       }
     },
     "/items/chimerical_chest_key": {
@@ -14790,7 +14880,7 @@
     },
     "/items/cocoon": {
       "0": {
-        "a": 100000000.0,
+        "a": 80000000.0,
         "b": -1
       }
     },
@@ -14826,7 +14916,7 @@
     },
     "/items/cotton": {
       "0": {
-        "a": 362500.0,
+        "a": 253750.0,
         "b": -1
       }
     },
@@ -14851,6 +14941,12 @@
     "/items/crab_pincer": {
       "0": {
         "a": 9800000000.0,
+        "b": -1
+      }
+    },
+    "/items/crafting_essence": {
+      "0": {
+        "a": 50.0,
         "b": -1
       }
     },
@@ -14968,7 +15064,7 @@
     },
     "/items/crushed_philosophers_stone": {
       "0": {
-        "a": 98000.0,
+        "a": 86000.0,
         "b": -1
       }
     },
@@ -14988,6 +15084,12 @@
       "0": {
         "a": 5200000.0,
         "b": -1
+      }
+    },
+    "/items/dairyhands_bottoms": {
+      "0": {
+        "a": -1,
+        "b": 100000000000.0
       }
     },
     "/items/damaged_anchor": {
@@ -15020,7 +15122,7 @@
         "b": -1
       },
       "10": {
-        "a": 99500000000.0,
+        "a": 99000000000.0,
         "b": -1
       }
     },
@@ -15036,7 +15138,7 @@
     },
     "/items/donut": {
       "0": {
-        "a": 62500000000.0,
+        "a": 38300000000.0,
         "b": -1
       }
     },
@@ -15080,7 +15182,7 @@
     },
     "/items/egg": {
       "0": {
-        "a": 10000.0,
+        "a": 8000.0,
         "b": -1
       }
     },
@@ -15125,15 +15227,15 @@
         "a": 205000.0,
         "b": -1
       },
+      "14": {
+        "a": 100000000000.0,
+        "b": -1
+      },
       "5": {
         "a": 88000000000.0,
         "b": -1
       },
       "6": {
-        "a": 100000000000.0,
-        "b": -1
-      },
-      "14": {
         "a": 100000000000.0,
         "b": -1
       }
@@ -15153,13 +15255,9 @@
         "a": 3600000.0,
         "b": -1
       },
-      "2": {
-        "a": 10000000000.0,
-        "b": -1
-      },
-      "3": {
-        "a": 10000000000.0,
-        "b": -1
+      "20": {
+        "a": -1,
+        "b": 100000000000.0
       },
       "4": {
         "a": 100000000000.0,
@@ -15168,10 +15266,6 @@
       "5": {
         "a": 10000000000.0,
         "b": -1
-      },
-      "20": {
-        "a": -1,
-        "b": 100000000000.0
       },
       "10": {
         "a": 100000000000.0,
@@ -15190,9 +15284,15 @@
         "b": -1
       }
     },
+    "/items/excelsa_coffee_bean": {
+      "0": {
+        "a": 32.0,
+        "b": -1
+      }
+    },
     "/items/eye_of_the_watcher": {
       "0": {
-        "a": 16250.0,
+        "a": 15000.0,
         "b": -1
       }
     },
@@ -15211,6 +15311,12 @@
     "/items/fierce_aura": {
       "0": {
         "a": 20000.0,
+        "b": -1
+      }
+    },
+    "/items/fieriosa_coffee_bean": {
+      "0": {
+        "a": 48.0,
         "b": -1
       }
     },
@@ -15270,9 +15376,15 @@
         "b": -1
       }
     },
+    "/items/foragers_bottoms": {
+      "0": {
+        "a": -1,
+        "b": 100000000000.0
+      }
+    },
     "/items/foraging_essence": {
       "0": {
-        "a": 3062500000.0,
+        "a": 2450000000.0,
         "b": -1
       }
     },
@@ -15520,7 +15632,7 @@
         "b": -1
       },
       "10": {
-        "a": 100000000000.0,
+        "a": 74500000000.0,
         "b": -1
       }
     },
@@ -15610,7 +15722,7 @@
     },
     "/items/holy_milk": {
       "0": {
-        "a": 327.5,
+        "a": 270.0,
         "b": -1
       }
     },
@@ -15778,7 +15890,7 @@
     },
     "/items/log": {
       "0": {
-        "a": 13.25,
+        "a": 11.0,
         "b": -1
       }
     },
@@ -15786,6 +15898,12 @@
       "0": {
         "a": 2500000000.0,
         "b": -1
+      }
+    },
+    "/items/lumberjacks_bottoms": {
+      "0": {
+        "a": -1,
+        "b": 100000000000.0
       }
     },
     "/items/maelstrom_plate_body": {
@@ -15886,7 +16004,7 @@
     },
     "/items/milking_essence": {
       "0": {
-        "a": 306250.0,
+        "a": 245000.0,
         "b": -1
       }
     },
@@ -16032,7 +16150,7 @@
         "b": -1
       },
       "10": {
-        "a": 97500000000.0,
+        "a": 97000000000.0,
         "b": -1
       },
       "5": {
@@ -16124,6 +16242,12 @@
         "b": -1
       }
     },
+    "/items/polar_bear_shoes": {
+      "0": {
+        "a": -1,
+        "b": 100000000000.0
+      }
+    },
     "/items/precision": {
       "0": {
         "a": 2000.0,
@@ -16132,7 +16256,13 @@
     },
     "/items/prime_catalyst": {
       "0": {
-        "a": 9200000000.0,
+        "a": 9150000000.0,
+        "b": -1
+      }
+    },
+    "/items/processing_tea": {
+      "0": {
+        "a": 60.0,
         "b": -1
       }
     },
@@ -16174,13 +16304,13 @@
     },
     "/items/purpleheart_log": {
       "0": {
-        "a": 79.5,
+        "a": 66.0,
         "b": -1
       }
     },
     "/items/purpleheart_lumber": {
       "0": {
-        "a": 1875000.0,
+        "a": 1500000.0,
         "b": -1
       }
     },
@@ -16296,7 +16426,7 @@
         "b": -1
       },
       "7": {
-        "a": 62500000000.0,
+        "a": 43750000000.0,
         "b": -1
       }
     },
@@ -16554,7 +16684,7 @@
     },
     "/items/rough_leather": {
       "0": {
-        "a": 125000.0,
+        "a": 100000.0,
         "b": -1
       }
     },
@@ -16582,7 +16712,7 @@
         "b": -1
       },
       "8": {
-        "a": 580000000.0,
+        "a": 575000000.0,
         "b": -1
       }
     },
@@ -16618,7 +16748,7 @@
     },
     "/items/shard_of_protection": {
       "0": {
-        "a": 15500800.0,
+        "a": 7751200.0,
         "b": -1
       }
     },
@@ -16892,7 +17022,7 @@
     },
     "/items/sunstone": {
       "0": {
-        "a": 515000000.0,
+        "a": 510000000.0,
         "b": -1
       }
     },
@@ -16976,7 +17106,7 @@
     },
     "/items/thread_of_expertise": {
       "0": {
-        "a": 162500.0,
+        "a": 150000.0,
         "b": -1
       }
     },
@@ -17216,7 +17346,7 @@
     },
     "/items/verdant_milk": {
       "0": {
-        "a": 6.5,
+        "a": 6.0,
         "b": -1
       }
     },
@@ -17274,7 +17404,7 @@
     },
     "/items/wheat": {
       "0": {
-        "a": 120750.0,
+        "a": 96000.0,
         "b": -1
       }
     },
@@ -17292,7 +17422,7 @@
     },
     "/items/woodcutting_essence": {
       "0": {
-        "a": 46250000.0,
+        "a": 37000000.0,
         "b": -1
       }
     },
@@ -17323,66 +17453,6 @@
     "/items/yogurt": {
       "0": {
         "a": 1250000000.0,
-        "b": -1
-      }
-    },
-    "/items/brewing_essence": {
-      "0": {
-        "a": 50.0,
-        "b": -1
-      }
-    },
-    "/items/chefs_bottoms": {
-      "0": {
-        "a": -1,
-        "b": 100000000000.0
-      }
-    },
-    "/items/crafting_essence": {
-      "0": {
-        "a": 50.0,
-        "b": -1
-      }
-    },
-    "/items/dairyhands_bottoms": {
-      "0": {
-        "a": -1,
-        "b": 100000000000.0
-      }
-    },
-    "/items/excelsa_coffee_bean": {
-      "0": {
-        "a": 32.0,
-        "b": -1
-      }
-    },
-    "/items/fieriosa_coffee_bean": {
-      "0": {
-        "a": 48.0,
-        "b": -1
-      }
-    },
-    "/items/foragers_bottoms": {
-      "0": {
-        "a": -1,
-        "b": 100000000000.0
-      }
-    },
-    "/items/lumberjacks_bottoms": {
-      "0": {
-        "a": -1,
-        "b": 100000000000.0
-      }
-    },
-    "/items/polar_bear_shoes": {
-      "0": {
-        "a": -1,
-        "b": 100000000000.0
-      }
-    },
-    "/items/processing_tea": {
-      "0": {
-        "a": 60.0,
         "b": -1
       }
     },
