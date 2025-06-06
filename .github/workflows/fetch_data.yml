@@ -2,20 +2,20 @@
 name: Fetch and Process Data
 
 on:
-  schedule:
-    - cron: '0 */2 * * *'  # 每2小时执行一次
+  #schedule:
+  #  - cron: '0 * * * *'  # 每小时执行一次
   workflow_dispatch:     # 支持手动触发
 
 jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     
     - name: Fetch JSON
       run: |
-        curl -o data_test.json https://test.milkywayidle.com/game_data/marketplace.json
-        python process_test.py
+        curl -o data.json https://www.milkywayidle.com/game_data/marketplace.json
+        python process.py
         
     - name: Commit changes
       run: |
