@@ -10,8 +10,8 @@ def calculate_avg(values):
 
 def process_data():
     # 文件路径配置
-    input_file = 'data.json'
-    output_file = 'historical_data.json'
+    input_file = 'data_test.json'
+    output_file = 'historical_data_test.json'
     
     # 读取新数据
     try:
