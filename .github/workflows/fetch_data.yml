@@ -15,7 +15,7 @@ jobs:
     - name: Fetch JSON
       run: |
         curl -o data_test.json https://test.milkywayidle.com/game_data/marketplace.json
-        python process.py
+        python process_test.py
         
     - name: Commit changes
       run: |
