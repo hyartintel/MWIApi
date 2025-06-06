@@ -3,7 +3,7 @@ name: Fetch and Process Data
 
 on:
   schedule:
-    - cron: '0 * * * *'  # 每小时执行一次
+    - cron: '0 */2 * * *'  # 每2小时执行一次
   workflow_dispatch:     # 支持手动触发
 
 jobs:
@@ -14,7 +14,7 @@ jobs:
     
     - name: Fetch JSON
       run: |
-        curl -o data.json https://test.milkywayidle.com/game_data/marketplace.json
+        curl -o data_test.json https://test.milkywayidle.com/game_data/marketplace.json
         python process.py
         
     - name: Commit changes
